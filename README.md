@@ -1,5 +1,5 @@
-## ChatRules
-# Rules for chats in Telegram
+# Правила чатов
+## Правила для чатов Telegram
 
 ### ❗️ Временные правила: Распространение новостей про военное положение категорически запрещено.
 
@@ -39,21 +39,21 @@
 °Доказательства нарушения правил (Фото/Пересланное сообщение).
 
 # 📢 Ссылки на группы:
-### G_C Server - [LINK]()
+### ⛧ G_С Server ⛧ - [LINK](https://t.me/Gamzee_Chert)
+![]()
+### Simple SandBox - [LINK](https://t.me/simple_sandbox)
 ![alt tag]()
-### Simple SandBox - [LINK]()
+### 🗺 Рекомендованные карты Simple SandBox - [LINK](https://t.me/SimpleSandBoxRecommendedMaps)
 ![alt tag]()
-### Simple SandBox Recommended Maps - [LINK]()
-![alt tag]()
-### Polygonia SandBox - [LINK]()
+### POLYGONIA SANDBOX! - [LINK](https://t.me/polygonia_sandbox)
 ![alt tag]()
 
 # 🔗 Ссылки на чаты:
-### G_C Server Chat - [LINK]()
+### ⛧ G_C Server Chat ⛧ - [LINK](https://t.me/+WA4ubIKzWSsxOWRi)
 ![alt tag]()
-### SSB Chat - [LINK]()
+### SSB | Chat - [LINK](https://t.me/SimpleSandBox2Chat)
 ![alt tag]()
-### SSB Recommended Maps Chat - [LINK]()
+### 🗺 Рекомендованные карты Simple SandBox - Chat - [LINK](https://t.me/SimpleSandBoxRecommendedMapsChat)
 ![alt tag]()
-### Polygonia SandBox Chat - [LINK]()
+### POLYGONIA SANDBOX | Chat - [LINK](https://t.me/polygonia_sandbox_chat)
 ![alt tag]()
