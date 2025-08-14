@@ -39,8 +39,8 @@
 °Доказательства нарушения правил (Фото/Пересланное сообщение).
 
 # 📢 Ссылки на группы:
-### ⛧ G_С Server ⛧ - [LINK](https://t.me/Gamzee_Chert)
-![]()
+### 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert)
+![alt tag]()
 ### Simple SandBox - [LINK](https://t.me/simple_sandbox)
 ![alt tag]()
 ### 🗺 Рекомендованные карты Simple SandBox - [LINK](https://t.me/SimpleSandBoxRecommendedMaps)
@@ -49,7 +49,7 @@
 ![alt tag]()
 
 # 🔗 Ссылки на чаты:
-### ⛧ G_C Server Chat ⛧ - [LINK](https://t.me/+WA4ubIKzWSsxOWRi)
+### 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi)
 ![alt tag]()
 ### SSB | Chat - [LINK](https://t.me/SimpleSandBox2Chat)
 ![alt tag]()
