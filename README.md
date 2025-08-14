@@ -40,20 +40,20 @@
 
 # 📢 Ссылки на группы:
 ### 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert)
-![G_Cchannel]()
+![G_Cchannel](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchannel.jpg)
 ### 🎮 - [Simple SandBox](https://t.me/simple_sandbox)
-![SSBchannel]()
+![SSBchannel](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchannel.jpg)
 ### 🗺 - [Рекомендованные карты Simple SandBox](https://t.me/SimpleSandBoxRecommendedMaps)
-![RMSSBchannel]()
+![RMSSBchannel](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchannel.jpg)
 ### 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox)
-![PSBchannel]()
+![PSBchannel](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchannel.jpg)
 
 # 🔗 Ссылки на чаты:
 ### 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi)
-![G_Cchat]()
+![G_Cchat](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchat.jpg)
 ### 🎮 - [SSB | Chat](https://t.me/SimpleSandBox2Chat)
-![SSBchat]()
+![SSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchat.jpg)
 ### 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat)
-![RMSSBchat]()
+![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg)
 ### 👾 - [POLYGONIA SANDBOX | Chat](https://t.me/polygonia_sandbox_chat)
-![PSBchat]()
+![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg)
