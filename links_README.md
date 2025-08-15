@@ -30,14 +30,14 @@ INDEV
 |:--------------|:---------|
 | [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true) |
 | [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470) | ![AppStore](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FAppStore.png?raw=true) |
-| [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | [X_Twitter](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FX_Twitter.png?raw=true) |
-| [Instagram](https://www.instagram.com/madness_games_dev/) | [Instagram](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FInstagram.png?raw=true) |
-| [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | none |
-| [VK Madness Games](https://vk.com/madnessgamesofficial) | none |
-| [VK Madness Games Support](https://vk.com/testers_ssb2 ) | none | 
-| [VK SSB² Community](https://vk.com/ssb2community) | none |
-| [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | none |
-| [VK SSB³ Community](https://vk.com/simplesandbox3) | none |
+| [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | ![X_Twitter](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FX_Twitter.png?raw=true) |
+| [Instagram](https://www.instagram.com/madness_games_dev/) | ![Instagram](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FInstagram.png?raw=true) |
+| [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | ![Facebook](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FFacebook.png?raw=true) |
+| [VK Madness Games](https://vk.com/madnessgamesofficial) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
+| [VK Madness Games Support](https://vk.com/testers_ssb2 ) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) | 
+| [VK SSB² Community](https://vk.com/ssb2community) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
+| [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
+| [VK SSB³ Community](https://vk.com/simplesandbox3) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
 | [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang) | none |
 | [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2) | none |
 | [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3) | none |
