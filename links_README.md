@@ -46,7 +46,7 @@ INDEV
 | [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | none |
 | [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | none |
 | [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | none |
-| | |
+|  |  |
 | [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | none |
 | [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | none |
 | [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | none |
