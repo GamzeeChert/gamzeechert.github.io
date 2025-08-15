@@ -42,15 +42,13 @@
 * Каждый случай нарушения уникален - в шаблоне указаны **минимальные** сроки наказаний. Модераторы и стажёры вправе сами выбирать срок действия наказания, но срок не должен быть **минимальнее шаблонному** и быть **длительнее одного месяца**.
 * С прочей информацией модераторы и стажёры могут ознакомиться непосредственно в чате персонала.
 
+- - - - - 
+
 # 🔗 Ссылки на чаты:
-#### 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi)
-![G_Cchat](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchat.jpg?raw=true)
-- - - - -
-#### 🎮 - [SSB | Chat](https://t.me/SimpleSandBox2Chat)
-![SSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchat.jpg?raw=true)
-- - - - -
-#### 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat)
-![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg?raw=true)
-- - - - -
-#### 👾 - [POLYGONIA SANDBOX | Chat](https://t.me/polygonia_sandbox_chat)
-![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg?raw=true)
+
+| Название/Ссылка | Картинка |
+|:----------|:------------|
+| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | ![G_Cchat](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchat.jpg?raw=true) |
+| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchat.jpg?raw=true) |
+| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg?raw=true) |
+| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg?raw=true) |
