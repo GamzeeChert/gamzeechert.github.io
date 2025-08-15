@@ -28,10 +28,10 @@ INDEV
 
 | Ресурс/Ссылка | Картинка |
 |:--------------|:---------|
-| [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true" width="32">) |
+| [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true) |
 | [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470) | ![AppStore](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FAppStore.png?raw=true) |
-| [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | none |
-| [Instagram](https://www.instagram.com/madness_games_dev/) | none |
+| [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | [X_Twitter](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FX_Twitter.png?raw=true) |
+| [Instagram](https://www.instagram.com/madness_games_dev/) | [Instagram](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FInstagram.png?raw=true) |
 | [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | none |
 | [VK Madness Games](https://vk.com/madnessgamesofficial) | none |
 | [VK Madness Games Support](https://vk.com/testers_ssb2 ) | none | 
