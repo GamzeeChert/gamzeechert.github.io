@@ -43,7 +43,6 @@
 * С прочей информацией модераторы и стажёры могут ознакомиться непосредственно в чате персонала.
 
 ![Cat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FCat.jpg?raw=true)
-)
 
 - - - - - 
 
