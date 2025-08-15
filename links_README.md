@@ -13,7 +13,7 @@
 
 - - - - - 
 
-# 🔗 Ссылки на чаты:
+# 💬 Ссылки на чаты:
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
@@ -21,3 +21,13 @@
 | 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchat.jpg?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg?raw=true) |
+
+# 🔗 Ссылки на социальные сети
+
+INDEV
+
+| Ресурс/Ссылка | Картинка |
+|:--------------|:---------|
+| test1 | none |
+| test2 | none |
+| test3 | none |
