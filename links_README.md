@@ -28,7 +28,7 @@ INDEV
 
 | Ресурс/Ссылка | Картинка |
 |:--------------|:---------|
-| [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true) |
+| [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true" width="32">) |
 | [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470) | ![AppStore](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FAppStore.png?raw=true) |
 | [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | none |
 | [Instagram](https://www.instagram.com/madness_games_dev/) | none |
