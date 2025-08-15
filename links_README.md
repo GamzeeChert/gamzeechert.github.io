@@ -37,45 +37,16 @@ INDEV
 | [VK SSB² Community](https://vk.com/ssb2community) | none |
 | [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | none |
 | [VK SSB³ Community](https://vk.com/simplesandbox3) | none |
-| []() | none |
-| []() | none |
-| []() | none |
-| []() | none |
-
-• https://www.facebook.com/MadnessGamesOfficial/ 
-[ Facebook Madness Games; 
-
-• https://steamcommunity.com/groups/MadnessGamesGang 
-[ Steam Madness Games; 
-
-• https://steamcommunity.com/groups/SimpleSandBox2
-[ Steam Simple SandBox 2; 
-
-• https://steamcommunity.com/groups/SimpleSandBox3
-[ Steam Simple SandBox 3; 
-
-• https://tiktok.com/@madnessgamesofficial
-[ TikTok Madness Games;
-
-• https://www.youtube.com/@MadnessGamesOfficial
-[ YouTube Madness Games; 
-
-• https://discord.gg/simple-sandbox-official-server-570256469203877898
-[ SSB2 Discord;
-
-• https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490
-[ SSB2:MA Discord;
-
-• https://discord.gg/simple-sandbox-3-992814941256044584
-[ SSB3 Discord.
-
-
-- - - - - 
-• https://www.youtube.com/@GamzeeChertanovskiy/
-[ G_C YouTube; 
-
-• https://www.instagram.com/gamzeechertanovskiy/ 
-[ G_C Instagram; 
-
-• https://discord.gg/gamzee-s-server-637368353937293332
-[ G_C Discord.
+| [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | none |
+| [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang) | none |
+| [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2) | none |
+| [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3) | none |
+| [TikTok](https://tiktok.com/@madnessgamesofficial) | none |
+| [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial) | none |
+| [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | none |
+| [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | none |
+| [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | none |
+|:--------------|:---------|
+| [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | none |
+| [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | none |
+| [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | none |
