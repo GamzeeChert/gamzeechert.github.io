@@ -2,6 +2,11 @@
 
 - - - - -
 
+| 📢 Группы | 🖼️ Картинка |
+|:----------|:------------|
+| 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert) | ![alt tag](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchannel.jpg?raw=true) |
+
+
 # 📢 Ссылки на группы:
 #### 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert)
 ![alt tag](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchannel.jpg?raw=true)
