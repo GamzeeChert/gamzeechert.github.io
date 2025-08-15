@@ -24,8 +24,6 @@
 
 # 🔗 Ссылки на социальные сети
 
-INDEV
-
 | Ресурс/Ссылка | Картинка |
 |:--------------|:---------|
 | [Google Store](https://play.google.com/store/apps/developer?id=MadnessGames) | ![GooglePlay](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FGooglePlay.png?raw=true) |
@@ -38,15 +36,15 @@ INDEV
 | [VK SSB² Community](https://vk.com/ssb2community) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
 | [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
 | [VK SSB³ Community](https://vk.com/simplesandbox3) | ![VK](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FVK.png?raw=true) |
-| [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang) | none |
-| [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2) | none |
-| [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3) | none |
-| [TikTok](https://tiktok.com/@madnessgamesofficial) | none |
-| [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial) | none |
-| [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | none |
-| [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | none |
-| [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | none |
+| [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang) | ![Steam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FSteam.png?raw=true) |
+| [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2) | ![Steam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FSteam.png?raw=true) |
+| [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3) | ![Steam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FSteam.png?raw=true) |
+| [TikTok](https://tiktok.com/@madnessgamesofficial) | ![TikTok](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FTikTok.png?raw=true) |
+| [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial) | ![YouTube](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FYouTube.png?raw=true) |
+| [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
+| [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
+| [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
 | Ресурс/Ссылка (GamzeeChert) | Картинка |
-| [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | none |
-| [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | none |
-| [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | none |
+| [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | ![YouTube](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FYouTube.png?raw=true) |
+| [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | ![Instagram](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FInstagram.png?raw=true) |
+| [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
