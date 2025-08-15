@@ -22,6 +22,8 @@
 | 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg?raw=true) |
 
+- - - - -
+
 # 🔗 Ссылки на социальные сети
 
 | Ресурс/Ссылка | Картинка |
@@ -44,7 +46,7 @@
 | [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
 | [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
 | [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
-| Ресурс/Ссылка (GamzeeChert) | Картинка |
+| **Ресурс/Ссылка (GamzeeChert)** | **Картинка** |
 | [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | ![YouTube](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FYouTube.png?raw=true) |
 | [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | ![Instagram](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FInstagram.png?raw=true) |
 | [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | ![Discord](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FDiscord.png?raw=true) |
