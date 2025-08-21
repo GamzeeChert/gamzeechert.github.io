@@ -11,4 +11,4 @@ title: 🛍️ Madness Games Store - Навигация
 
 **INDEV**
 
-![MGSpic](https://https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSpic.jpg?raw=true)
+![MGSpic](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSpic.jpg?raw=true)
