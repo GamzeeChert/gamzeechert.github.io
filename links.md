@@ -32,38 +32,31 @@ title: 🔗 Ссылки
 
 # 🔗 Ссылки на социальные сети
 
-- Madness Games
-  - Developer Accounts
+- 🎮 Madness Games:
+  - Developer Accounts:
     - [Google Store](https://play.google.com/store/apps/dev?id=7129867871289421717)
     - [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470)
   - [𝕏/Twitter](https://x.com/MadnessGames016?s=09)
   - [Instagram](https://www.instagram.com/madness_games_dev/)
-    - level 3 item
-    - level 3 item
+  - [Facebook](https://www.facebook.com/MadnessGamesOfficial/)
+  - VK:
+    - [VK Madness Games](https://vk.com/madnessgamesofficial)
+    - [VK Madness Games Support](https://vk.com/testers_ssb2)
+    - [VK SSB² Community](https://vk.com/ssb2community)
+    - [VK SSB²:MA Community](https://vk.com/ssb2macommunity)
+    - [VK SSB³ Community](https://vk.com/simplesandbox3)
+  - Steam:
+    - [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang)
+    - [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2)
+    - [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3)
+  - Discord:
+    - [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898)
+    - [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490)
+    - [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584)
+  - [TikTok](https://tiktok.com/@madnessgamesofficial)
+  - [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial)
+
 - Gamzee_Chert
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-
-
- [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | ![NAME](LINK?raw=true) |
-| [VK Madness Games](https://vk.com/madnessgamesofficial) | ![NAME](LINK?raw=true) |
-| [VK Madness Games Support](https://vk.com/testers_ssb2 ) | ![NAME](LINK?raw=true) | 
-| [VK SSB² Community](https://vk.com/ssb2community) | ![NAME](LINK?raw=true) |
-| [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | ![NAME](LINK?raw=true) |
-| [VK SSB³ Community](https://vk.com/simplesandbox3) | ![NAME](LINK?raw=true) |
-| [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang) | ![NAME](LINK?raw=true) |
-| [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2) | ![NAME](LINK?raw=true) |
-| [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3) | ![NAME](LINK?raw=true) |
-| [TikTok](https://tiktok.com/@madnessgamesofficial) | ![NAME](LINK?raw=true) |
-| [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial) | ![NAME](LINK?raw=true) |
-| [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898) | ![NAME](LINK?raw=true) |
-| [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490) | ![NAME](LINK?raw=true) |
-| [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584) | ![NAME](LINK?raw=true) |
-| **Ресурс/Ссылка (GamzeeChert)** | **Картинка** |
-| [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/) | ![NAME](LINK?raw=true) |
-| [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/) | ![NAME](LINK?raw=true) |
-| [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332) | ![NAME](LINK?raw=true) |
+  - [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/)
+  - [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/)
+  - [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332)
