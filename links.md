@@ -32,13 +32,24 @@ title: 🔗 Ссылки
 
 # 🔗 Ссылки на социальные сети
 
-| Ресурс/Ссылка | Картинка |
-|:--------------|:---------|
-| [Google Store](https://play.google.com/store/apps/dev?id=7129867871289421717) | ![NAME](LINK?raw=true) |
-| [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470) | ![NAME](LINK?raw=true) |
-| [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | ![NAME](LINK?raw=true) |
-| [Instagram](https://www.instagram.com/madness_games_dev/) | ![NAME](LINK?raw=true) |
-| [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | ![NAME](LINK?raw=true) |
+- Madness Games
+  - Developer Accounts
+    - [Google Store](https://play.google.com/store/apps/dev?id=7129867871289421717)
+    - [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470)
+  - [𝕏/Twitter](https://x.com/MadnessGames016?s=09)
+  - [Instagram](https://www.instagram.com/madness_games_dev/)
+    - level 3 item
+    - level 3 item
+- Gamzee_Chert
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+
+
+ [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | ![NAME](LINK?raw=true) |
 | [VK Madness Games](https://vk.com/madnessgamesofficial) | ![NAME](LINK?raw=true) |
 | [VK Madness Games Support](https://vk.com/testers_ssb2 ) | ![NAME](LINK?raw=true) | 
 | [VK SSB² Community](https://vk.com/ssb2community) | ![NAME](LINK?raw=true) |
