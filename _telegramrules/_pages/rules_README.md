@@ -1,6 +1,7 @@
 ---
-title: 📜 Telegram Rules - Rules
+title: Правила Telegram
 ---
+
 # 📃 Правила для чатов Telegram
 
 ##### 🔗 [Раздел ссылок](./links_README.md)
