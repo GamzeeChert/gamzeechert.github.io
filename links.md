@@ -50,7 +50,7 @@ title: 🔗 Ссылки
     - [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898)
     - [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490)
     - [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584)
-- [𝕏/Twitter](https://x.com/MadnessGames016?s=09)
+  - [𝕏/Twitter](https://x.com/MadnessGames016?s=09)
   - [Instagram](https://www.instagram.com/madness_games_dev/)
   - [Facebook](https://www.facebook.com/MadnessGamesOfficial/)
   - [TikTok](https://tiktok.com/@madnessgamesofficial)
