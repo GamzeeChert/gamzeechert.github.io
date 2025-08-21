@@ -6,7 +6,7 @@
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
-| 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert) | <img src="./_telegramrules/_tgicons/G_Cchannel.jpg" width="50" /> |
+| 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert) | <img src="_telegramrules/_tgicons/G_Cchannel.jpg" width="50" /> |
 | 🎮 - [Simple SandBox](https://t.me/simple_sandbox) | <img src="_telegramrules/_tgicons/SSBchannel.jpg" width="50" /> |
 | 🗺 - [Рекомендованные карты Simple SandBox](https://t.me/SimpleSandBoxRecommendedMaps) | <img src=_telegramrules/_tgiconsRMSSBchannel.jpg" width="50" /> |
 | 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox) | <img src="_telegramrules/_tgiconsPSBchannel.jpg" width="50" /> |
