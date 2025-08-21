@@ -33,8 +33,8 @@
 | [𝕏/Twitter](https://x.com/MadnessGames016?s=09) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/X_Twitter.png" width="50" />
 | [Instagram](https://www.instagram.com/madness_games_dev/) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/Instagram.png" width="50" /> |
 | [Facebook](https://www.facebook.com/MadnessGamesOfficial/) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/Facebook.png" width="50" /> |
-| [VK Madness Games](https://vk.com/madnessgamesofficial) | <img src="picture.png" width="50" /> |
-| [VK Madness Games Support](https://vk.com/testers_ssb2 ) | <img src="picture.png" width="50" /> | 
+| [VK Madness Games](https://vk.com/madnessgamesofficial) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/VK.png" width="50" /> |
+| [VK Madness Games Support](https://vk.com/testers_ssb2 ) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/VK.png" width="50" /> | 
 | [VK SSB² Community](https://vk.com/ssb2community) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/VK.png" width="50" /> |
 | [VK SSB²:MA Community](https://vk.com/ssb2macommunity) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/VK.png" width="50" /> |
 | [VK SSB³ Community](https://vk.com/simplesandbox3) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_icons/VK.png" width="50" /> |
