@@ -6,7 +6,7 @@ title: Main
 
 - - - - -
 
-[📜 Telegram Rules](./_telegramrules/_pages/rules_README.md)
+[📜 Telegram Rules](/_telegramrules/_pages/rules_README.md)
 
 
 🛍️ Madness Games Store - INDEV
