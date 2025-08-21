@@ -2,8 +2,8 @@
 title: 🔗 Ссылки
 ---
 
-##### 🌐 [Главная страница](./README.md)
-##### 📜 [Telegram Rules](TGRules.md)
+##### 🌐 [Главная страница](./index.md)
+##### 📜 [Telegram Rules](./TGRules.md)
 ##### 🛍️ Madness Games Store (INDEV)
 
 - - - - -
