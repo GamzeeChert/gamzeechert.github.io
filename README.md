@@ -57,4 +57,4 @@
 
 Test section
 
-[Правила](./_telegramrules/_pages/rules_README.md)
+[Правила](https://gamzeechert.github.io/_telegramrules/_pages/rules_README.md)
