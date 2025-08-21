@@ -1,7 +1,10 @@
 ---
-title: Main
+title: 🔗 Ссылки
 ---
-###### [ 🔙 Вернуться на главную страницу](./rules_README.md)
+
+##### 🌐 [Главная страница](./README.md)
+##### 📜 [Telegram Rules](Rules.md)
+##### 🛍️ Madness Games Store (INDEV)
 
 - - - - -
 
