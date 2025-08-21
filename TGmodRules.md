@@ -58,10 +58,10 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
-| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/G_Cchat.jpg" width="50" /> |
-| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/SSBchat.jpg" width="50" /> |
-| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/RMSSBchat.jpg" width="50" /> |
-| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/PSBchat.jpg" width="50" /> |
+| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | ![G_Cchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FG_Cchat.jpg?raw=true) |
+| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchat.jpg?raw=true) |
+| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchat.jpg?raw=true) |
+| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchat.jpg?raw=true) |
 
 - - - - -
 
