@@ -4,7 +4,7 @@ title: 🔗 Ссылки
 
 ##### 🌐 [Главная страница](./index.md)
 ##### 📜 [Telegram Rules](./TGRules.md)
-##### 🛍️ Madness Games Store (INDEV)
+##### 🛍️ [Madness Games Store](./MGSMain)
 
 - - - - -
 
