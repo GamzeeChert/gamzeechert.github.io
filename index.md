@@ -8,9 +8,8 @@ title: Main
 
 [📜 Telegram Rules](/_telegramrules/_pages/rules_README.md)
 
-[Правила1](/_telegramrules/_pages/rules_README/)
+[Правила](/_telegramrules/_pages/rules_README/)
 
-[Правила2](/_telegramrules/_pages/rules_README.html)
 
 
 
