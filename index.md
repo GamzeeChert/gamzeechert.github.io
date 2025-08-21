@@ -9,7 +9,7 @@ title: Main
 [📜 Telegram Rules](/_telegramrules/_pages/rules_README.md)
 
 [Правила](/_telegramrules/_pages/rules_README/)
-
+[Правила](_telegramrules/_pages/rules_README/)
 
 
 
