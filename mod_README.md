@@ -50,6 +50,8 @@
 
 ![Cat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FCat.jpg?raw=true)
 
+<img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FCat.jpg" width="150" />
+
 - - - - - 
 
 # 💬 Ссылки на чаты:
