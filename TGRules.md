@@ -1,5 +1,5 @@
 ---
-title: 📜 Telegram Rules - Правила
+title: 📜 Telegram Rules - Раздел с правилами
 ---
 
 # 📃 Правила для чатов Telegram
