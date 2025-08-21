@@ -49,20 +49,16 @@
 * Каждый случай нарушения уникален - в шаблоне указаны **минимальные** сроки наказаний. Модераторы и стажёры вправе сами выбирать срок действия наказания, но срок не должен быть **минимальнее шаблонному** и быть **длительнее одного месяца**.
 * С прочей информацией модераторы и стажёры могут ознакомиться непосредственно в чате персонала.
 
-![Cat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FCat.jpg?raw=true)
-
-<img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_icons%2FCat.jpg" width="100" />
-
 - - - - - 
 
 # 💬 Ссылки на чаты:
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
-| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | ![G_Cchat](https://github.com/GamzeeChert/ChatRules/blob/main/G_Cchat.jpg?raw=true) |
-| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/SSBchat.jpg?raw=true) |
-| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/RMSSBchat.jpg?raw=true) |
-| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/ChatRules/blob/main/PSBchat.jpg?raw=true) |
+| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/G_Cchat.jpg" width="50" /> |
+| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/SSBchat.jpg" width="50" /> |
+| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/RMSSBchat.jpg" width="50" /> |
+| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules/_tgicons/PSBchat.jpg" width="50" /> |
 
 - - - - -
 
