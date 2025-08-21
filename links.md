@@ -56,7 +56,7 @@ title: 🔗 Ссылки
   - [TikTok](https://tiktok.com/@madnessgamesofficial)
   - [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial)
 
-- Gamzee_Chert
+- 👤 Gamzee_Chert
   - [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/)
   - [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/)
   - [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332)
