@@ -2,6 +2,7 @@
 
 - - - - -
 
-[📜 Telegram Rules](https://gamzeechert.github.io/_telegramrules/_pages/rules_README.md)
+[📜 Telegram Rules](/_telegramrules/_pages/rules_README.html)
+
 
 🛍️ Madness Games Store - INDEV
