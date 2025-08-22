@@ -27,6 +27,8 @@ title: 🛍️ Madness Games Store - SandBox Experimental
  - Паки:
    - **Jetpack + 2 cars + AdBlock + 600.000 SC + 1500 CR** - 599.00 руб.
 
+# 🛍️ [Купить у продавца](https://t.me/m/SvEAzEGNYWUy)
+
 - - - - -
 
 `Список товаров обновлён 22.08.2025`
