@@ -16,7 +16,7 @@ title: 🛍️ Madness Games Store - Навигация
 | Игра | Логотип |
 |:-----|:--------|
 | (100%) [Simple SandBox Classic](./MGSssbc.md) | ![MGSssbclogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssbclogo.png?raw=true) |
-| (0%) [Simple SandBox 2](./MGSssb2.md) | ![MGSssb2logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2logo.png?raw=true) |
+| (75%) [Simple SandBox 2](./MGSssb2.md) | ![MGSssb2logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2logo.png?raw=true) |
 | (100%) [Simple SandBox 2 : Middle Ages](./MGSssb2ma.md) | ![MGSssb2malogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2malogo.png?raw=true) |
 | (0%) [Simple SandBox 3](./MGSssb3.md) | ![MGSssb3logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb3logo.png?raw=true) |
 | (100%) [SandBox Experimental](./MGSsbe.md) | ![MGSsbelogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSsbelogo.png?raw=true) |
