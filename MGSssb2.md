@@ -4,7 +4,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 
 # Simple SandBox 2
 
-![MGSssb2malogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2logo.png?raw=true)
+![MGSssb2logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2logo.png?raw=true)
 
 ##### 🌐 [Главная страница](./index.md)
 ##### 🔙 [Вернуться в магазин](./MGSMain.md)
