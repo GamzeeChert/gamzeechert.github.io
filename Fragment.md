@@ -17,6 +17,7 @@ title: 💎 Fragment - Аукцион
 | 👾 [@cursed_vega](https://fragment.com/username/cursed_vega) | 13 TON |
 | ⭐ [@tgstars_draw](https://fragment.com/username/tgstars_draw) | 50 TON |
 | ✨ @kikakoki | N/A |
+| 🏦 @tbank_vote | N/A |
 | 🛒 @RuStoreSale | N/A |
 | 🇷🇺 @indie_gamedev_russia | N/A |
 | 🇷🇺 [@indie_gamedev_rus](https://fragment.com/username/indie_gamedev_rus) | 30 TON |
