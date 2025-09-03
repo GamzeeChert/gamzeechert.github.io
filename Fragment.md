@@ -21,7 +21,7 @@ title: 💎 Fragment - Аукцион
 | @indie_gamedev_germany | N/A |
 | @indie_gamedev_kazakhstan | N/A |
 | @indie_gamedev_kz | N/A |
-| @indie_gamedev_ikraine | N/A |
+| @indie_gamedev_ukraine | N/A |
 | @indie_gamedev_ua | N/A |
 | @indie_gamedev_russia | N/A |
 | @indie_gamedev_en | N/A |
