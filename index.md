@@ -4,8 +4,8 @@ title: 🌐 Главная
 
 # 👋🏻 Добро пожаловать!
 
-## [📜 Telegram Rules](./TGRules.md)
-## [🎮 Game Rules](./GameRules.md)
+## [📜 Правила Telegram](./TGRules.md)
+## [🎮 Игровые правила](./GameRules.md)
 ## [📚 Игровое руководство](./GameGuide.md)
 
 ## [🛍️ Madness Games Store](./MGSMain.md)
