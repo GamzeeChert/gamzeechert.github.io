@@ -1,1 +1,1 @@
-📜 Telegram Rules | 🎮 Game Rules | 🛍️ Madness Games Store | 💎 Fragment
+📜 Telegram Rules | 🎮 Game Rules | ℹ️ Game Guide | 🛍️ Madness Games Store | 💎 Fragment
