@@ -6,7 +6,7 @@ title: 🌐 Главная
 
 ## [📜 Telegram Rules](./TGRules.md)
 ## [🎮 Game Rules](./GameRules.md)
-## [ℹ️ Игровое руководство](./GameGuide.md)
+## INDEV [ℹ️ Игровое руководство](./GameGuide.md)
 
 ## [🛍️ Madness Games Store](./MGSMain.md)
 ## [💎 Fragment](./Fragment.md)
