@@ -38,4 +38,4 @@ title: 💎 Fragment - Аукцион
 
 `Информация обновлена 03.09.2025` -->
 
-Temporarily unavailable 
+🚧 Temporarily unavailable 🚧
