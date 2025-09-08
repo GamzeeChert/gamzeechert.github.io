@@ -3,8 +3,6 @@ title: 🔗 Ссылки
 ---
 
 ##### 🌐 [Главная страница](./index.md)
-##### 📜 [Telegram Rules](./TGRules.md)
-##### 🛍️ [Madness Games Store](./MGSMain.md)
 
 - - - - -
 
