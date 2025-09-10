@@ -29,6 +29,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
      - **8.125 CR** - 2499.00 руб / 1526 TGs
      - **17.500 CR** - 4499.00 руб / 2745 TGs
  - Паки:
+   - **British Pack** - 299.00 руб / 184 TGs
    - **1942 German** - 299.00 руб / 184 TGs
    - **Radiant Pack** - 275.00 руб / 169 TGs
    - **Police Pack** - 399.00 руб / 245 TGs
