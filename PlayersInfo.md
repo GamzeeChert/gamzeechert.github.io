@@ -200,58 +200,139 @@ Photo
 
 - - - - -
 
+## Марк
 
 ![Mark](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FMark.png?raw=true)
 
+
+## Томас
+
 ![Thomas](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FThomas.png?raw=true)
+
+
+## Хьюстон
 
 ![Houston](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FHouston.png?raw=true)
 
+
+## Рик
+
 ![Rick](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FRick.png?raw=true)
+
+
+## Хуан
 
 ![Juan](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FJuan.png?raw=true)
 
+
+## Адам
+
 ![Adam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FAdam.png?raw=true)
+
+
+## Фэнг
 
 ![Fang](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FFang.png?raw=true)
 
+
+## Фредерик
+
 ![Frederick](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FFrederick.png?raw=true)
+
+
+## Рон
 
 ![Ron](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FRon.png?raw=true)
 
+
+## Остин
+
 ![Austin](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FAustin.png?raw=true)
+
+
+## Назар
 
 ![Nazar](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FNazar.png?raw=true)
 
+
+## Андрей
+
 ![Andrey](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FAndrey.png?raw=true)
+
+
+## Богдан
 
 ![Bogdan](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FBogdan.png?raw=true)
 
+
+## Лукас
+
 ![Lucas](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FLucas.png?raw=true)
+
+
+## Педро
 
 ![Pedro](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FPedro.png?raw=true)
 
+
+## Джош
+
 ![Josh](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FJosh.png?raw=true)
+
+
+## Бернард
 
 ![Bernard](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FBernard.png?raw=true)
 
+
+
+## Ленни
+
 ![Lenny](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FLenny.png?raw=true)
+
+
+## Оскар
 
 ![Oscar](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FOscar.png?raw=true)
 
+
+## Эмилия
+
 ![Emilia](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FEmilia.png?raw=true)
+
+
+## Арстан
 
 ![Arstan](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FArstan.png?raw=true)
 
+
+## Нурсултан
+
 ![Nursultan](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FNursultan.png?raw=true)
+
+
+## Кристоф
 
 ![Christophe](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FChristophe.png?raw=true)
 
+
+## Сэм
+
 ![Sam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FSam.png?raw=true)
+
+
+## Артём
 
 ![Artem](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FArtem.png?raw=true)
 
+
+
+## Роберт
+
 ![Robert](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FRobert.png?raw=true)
+
+
+## Ной
 
 ![Noah](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FNoah.png?raw=true)
 
