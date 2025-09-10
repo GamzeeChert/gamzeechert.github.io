@@ -245,7 +245,7 @@ Photo
 
 ![Nursultan](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FNursultan.png?raw=true)
 
-![Christophe](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FCristophe.png?raw=true)
+![Christophe](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FChristophe.png?raw=true)
 
 ![Sam](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_playerspictures%2FSam.png?raw=true)
 
