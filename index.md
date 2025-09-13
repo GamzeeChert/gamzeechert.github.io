@@ -5,31 +5,26 @@ title: 🌐 Главная
 
 # 👋🏻 Добро пожаловать!
 
-## [📜 Правила Telegram](./TGRules.md)
-## [🎮 Игровые правила](./GameRules.md)
-## [📚 Игровое руководство](./GameGuide.md)
+## <a href="./TGRules.html" class="button-link">📜 Правила Telegram</a>
+## <a href="./GameRules.html" class="button-link">🎮 Игровые правила</a>
+## <a href="./GameGuide.html" class="button-link">📚 Игровое руководство</a>
 
-## [🛍️ Madness Games Store](./MGSMain.md)
-## [💎 Fragment](./Fragment.md)
+## <a href="./MGSMain.html"
+class="button-link">🛍️ Madness Games Store</a>
+## <a href="./Fragment.html" class="button-link">💎 Fragment</a>
 
-## [🔗 Социальные сети](./links.md)
+## <a href="./links.html"
+class="button-link">🔗 Социальные сети</a>
 
 - - - - -
 
 ### ⚙️ Если вы видите этот текст, это значит, что сайт или сегменты сайта в настоящее время обновляются.
 
-Обновление сайта от 08.09.2025
+Обновление сайта от 14.09.2025
 
  - Обновлено:
-   - Дополнена информация в игровом руководстве.
+   - Внешний вид сайта.
 
 - - - - -
 
 ![MGSlogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSlogo.jpg?raw=true)
-
-## <a href="./TGRules.html" class="button-link">📜 Правила Telegram</a>
-## <a href="./GameRules.md" class="button-link">🎮 Игровые правила</a>
-## <a href="./GameGuide.md" class="button-link">📚 Игровое руководство</a>
-## <a href="./MGSMain.md" class="button-link">🛍️ Madness Games Store</a>
-## <a href="./Fragment.md" class="button-link">💎 Fragment</a>
-## <a href="./links.md" class="button-link">🔗 Социальные сети</a>
