@@ -1,7 +1,7 @@
 ---
 title: 🌐 Главная
 ---
-<link rel="stylesheet" href="_layouts/buttons.css">
+<link rel="stylesheet" href="buttons.css">
 
 # 👋🏻 Добро пожаловать!
 
