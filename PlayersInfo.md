@@ -2,9 +2,11 @@
 title: 👤 Персонажи
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # Список с информацией о персонажах Simple SandBox 2.
 
-##### 🌐 [Главная страница](./index.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
 
 - - - - -
 
