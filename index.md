@@ -31,7 +31,9 @@ title: 🌐 Главная
 
 #### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
 
-<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">Тестовая кнопка</button>
+<button id="fixedTopRightButton">
+  Перейти в Telegram
+</button>
 
 <script>
   const btn = document.getElementById('fixedTopRightButton');
@@ -43,24 +45,48 @@ title: 🌐 Главная
 
   let isDragging = false;
   let offsetX, offsetY;
+  let startX, startY;
+
+  function openLink() {
+    window.location.href = 'https://t.me/Gamzee_Chertanovskiy';
+  }
+
+  btn.addEventListener('click', function(e) {
+    if (isDragging) {
+      e.preventDefault();
+      e.stopPropagation();
+      return;
+    }
+    openLink();
+  });
 
   function dragStart(e) {
     e.preventDefault();
-    isDragging = true;
+    isDragging = false;
     const rect = btn.getBoundingClientRect();
     if (e.type === 'mousedown') {
       offsetX = e.clientX - rect.left;
       offsetY = e.clientY - rect.top;
+      startX = e.clientX;
+      startY = e.clientY;
     } else if (e.type === 'touchstart') {
       offsetX = e.touches[0].clientX - rect.left;
       offsetY = e.touches[0].clientY - rect.top;
+      startX = e.touches[0].clientX;
+      startY = e.touches[0].clientY;
     }
     btn.style.transition = 'none';
   }
 
   function dragMove(e) {
-    if (!isDragging) return;
-    e.preventDefault();
+    if (e.type === 'mousemove' && e.buttons === 0) {
+      isDragging = false;
+      return;
+    }
+    if (e.type === 'touchmove' && e.touches.length === 0) {
+      isDragging = false;
+      return;
+    }
     let clientX, clientY;
     if (e.type === 'mousemove') {
       clientX = e.clientX;
@@ -68,7 +94,21 @@ title: 🌐 Главная
     } else if (e.type === 'touchmove') {
       clientX = e.touches[0].clientX;
       clientY = e.touches[0].clientY;
+    } else {
+      return;
     }
+    const moveX = Math.abs(clientX - startX);
+    const moveY = Math.abs(clientY - startY);
+
+    if (moveX > 5 || moveY > 5) {
+      isDragging = true;
+    } else {
+      isDragging = false;
+    }
+
+    if (!isDragging) return;
+
+    e.preventDefault();
     let x = clientX - offsetX;
     let y = clientY - offsetY;
 
