@@ -25,3 +25,9 @@ title: 🌐 Главная
 - - - - -
 
 ![MGSlogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSlogo.jpg?raw=true)
+
+## <a href="./TGRules.md" class="button-link">📜 Правила Telegram</a>
+## <a href="./GameRules.md" class="button-link">🎮 Игровые правила</a>
+## <a href="./GameGuide.md" class="button-link">📚 Игровое руководство</a>
+## <a href="./MGSMain.md" class="button-link">🛍️ Madness Games Store</a>
+## <a href="./Fragment.md" class="button-link">💎 Fragment</a>
