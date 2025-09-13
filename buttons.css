@@ -8,6 +8,7 @@
     border-radius: 18px;
     text-decoration: none;
     font-size: 18px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
 }
 .button-link:hover {
     box-shadow: 0 0 10px 2px #43ff4388;
