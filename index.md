@@ -31,16 +31,45 @@ title: 🌐 Главная
 
 #### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
 
-<button id="fixedTopRightButton">Test Button</button>
+<button id="fixedTopRightButton">
+  Test button 👀
+</button>
+
+<style>
+  #fixedTopRightButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 9999;
+    padding: 12px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFFDD;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    cursor: move;
+    transition: background 0.3s ease, border-color 0.3s ease;
+    pointer-events: auto;
+  }
+  #fixedTopRightButton:hover {
+    background: rgba(255, 255, 255, 0.25);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+  #fixedTopRightButton:active {
+    background: rgba(255, 255, 255, 0.35);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+</style>
 
 <script>
   const btn = document.getElementById('fixedTopRightButton');
 
-  btn.style.position = 'fixed';
-  btn.style.top = '10px';
-  btn.style.right = '10px';
-  btn.style.cursor = 'move';
-
+  btn.style.left = 'auto';
+  
   let isDragging = false;
   let offsetX, offsetY;
   let startX, startY;
@@ -74,6 +103,7 @@ title: 🌐 Главная
       startY = e.touches[0].clientY;
     }
     btn.style.transition = 'none';
+    btn.style.right = 'auto';
   }
 
   function dragMove(e) {
@@ -119,7 +149,6 @@ title: 🌐 Главная
 
     btn.style.left = x + 'px';
     btn.style.top = y + 'px';
-    btn.style.right = 'auto';
   }
 
   function dragEnd(e) {
