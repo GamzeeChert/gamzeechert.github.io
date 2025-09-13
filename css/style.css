@@ -14,20 +14,3 @@
     box-shadow: 0 0 10px 2px #43ff4388;
     background-color: #444444;
 }
-
-.button-link2 {
-    display: inline-block;
-    padding: 10px 24px;
-    margin: 8px 0;
-    background-color: #333333;
-    color: #e3ffe3;
-    border: 2px dashed #261850;
-    border-radius: 18px;
-    text-decoration: none;
-    font-size: 18px;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
-}
-.button-link2:hover {
-    box-shadow: 0 0 10px 2px #543b73;
-    background-color: #444444;
-}
