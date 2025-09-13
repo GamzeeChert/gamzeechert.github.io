@@ -30,7 +30,7 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
    - **Business Jet + VIP Limousine + AdBlock + 550.000 SC + 1500 CR** - 449.00 руб / 278 TGs
    - **Shop Interiors Items** - 169.00 руб / 105 TGs
 
-# 🛍️ [Купить у продавца](https://t.me/m/SvEAzEGNYWUy)
+<a href="https://t.me/m/SvEAzEGNYWUy" class="button-link">🛍️ Купить у продавца</a>
 
 - - - - -
 
