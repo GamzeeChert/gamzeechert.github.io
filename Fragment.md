@@ -50,7 +50,7 @@ title: 💎 Fragment - Аукцион
 
 
 <button id="fixedTopRightButton">
-  Перейти в Telegram
+  🚧 Test Button 🚧
 </button>
 
 <script>
