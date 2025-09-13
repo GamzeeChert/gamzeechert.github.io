@@ -39,7 +39,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
    - **Unique Sect** - 429.00 руб / 263 TGs
    - **Pack Furniture 3** - 299.00 руб / 184 TGs
 
-# 🛍️ [Купить у продавца](https://t.me/m/SvEAzEGNYWUy)
+<a href="https://t.me/m/SvEAzEGNYWUy" class="button-link">🛍️ Купить у продавца</a>
 
 - - - - -
 
