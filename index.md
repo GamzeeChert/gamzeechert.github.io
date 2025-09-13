@@ -1,7 +1,7 @@
 ---
 title: 🌐 Главная
 ---
-<link rel="stylesheet" href="css/buttons.css">
+<link rel="stylesheet" href="css/style.css">
 
 # 👋🏻 Добро пожаловать!
 
@@ -32,3 +32,4 @@ title: 🌐 Главная
 ## <a href="./GameGuide.md" class="button-link">📚 Игровое руководство</a>
 ## <a href="./MGSMain.md" class="button-link">🛍️ Madness Games Store</a>
 ## <a href="./Fragment.md" class="button-link">💎 Fragment</a>
+## <a href="./links.md" class="button-link">🔗 Социальные сети</a>
