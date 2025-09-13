@@ -1,11 +1,14 @@
 ---
 title: 📜 Telegram Rules - Раздел для модераторов и стажёров
 ---
+<link rel="stylesheet" href="css/style.css">
+
+
 # 📝 Правила и шаблоны наказаний для чатов Telegram
 ## ⚜️ Раздел с информацией для модераторов и стажёров.
 
-##### 🌐 [Главная страница](./index.md)
-##### 🔙 [Вернуться к правилам](./TGRules.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
+<a href="./TGRules.html" class="button-link">🔙 Вернуться к правилам</a>
 
 - - - - -
 
@@ -92,4 +95,4 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 
 - - - - -
 
-##### 🔗 [Раздел ссылок](./links.md) 
+<a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
