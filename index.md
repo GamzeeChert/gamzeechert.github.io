@@ -22,7 +22,6 @@ title: 🌐 Главная
  - Обновлено:
    - Дополнена информация в игровом руководстве.
 
-
 - - - - -
 
 ![MGSlogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSlogo.jpg?raw=true)
