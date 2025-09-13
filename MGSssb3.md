@@ -2,12 +2,14 @@
 title: 🛍️ Madness Games Store - Simple SandBox 3
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # Simple SandBox 3
 
 ![MGSssb3logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb3logo.png?raw=true)
 
-##### 🌐 [Главная страница](./index.md)
-##### 🔙 [Вернуться в магазин](./MGSMain.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
+<a href="./MGSMain.html" class="button-link">🔙 Вернуться в магазин</a>
 
 - - - - -
 
