@@ -30,3 +30,7 @@ title: 🌐 Главная
 - - - - -
 
 #### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
+
+<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">
+  Перейти в Telegram
+</button>
