@@ -31,9 +31,7 @@ title: 🌐 Главная
 
 #### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
 
-<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">
-  Перейти в Telegram
-</button>
+<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">Тестовая кнопка</button>
 
 <script>
   const btn = document.getElementById('fixedTopRightButton');
@@ -87,11 +85,44 @@ title: 🌐 Главная
   }
 
   function dragEnd(e) {
-    if (isDragging) {
-      e.preventDefault();
-      isDragging = false;
-      btn.style.transition = '';
+    if (!isDragging) return;
+    e.preventDefault();
+    isDragging = false;
+    btn.style.transition = 'left 0.3s ease, top 0.3s ease';
+
+    const rect = btn.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+
+    const distances = {
+      left: centerX,
+      right: window.innerWidth - centerX,
+      top: centerY,
+      bottom: window.innerHeight - centerY
+    };
+
+    const closestEdge = Object.keys(distances).reduce((a, b) => distances[a] < distances[b] ? a : b);
+
+    let finalLeft = rect.left;
+    let finalTop = rect.top;
+
+    switch(closestEdge) {
+      case 'left':
+        finalLeft = 10;
+        break;
+      case 'right':
+        finalLeft = window.innerWidth - rect.width - 10;
+        break;
+      case 'top':
+        finalTop = 10;
+        break;
+      case 'bottom':
+        finalTop = window.innerHeight - rect.height - 10;
+        break;
     }
+
+    btn.style.left = finalLeft + 'px';
+    btn.style.top = finalTop + 'px';
   }
 
   btn.addEventListener('mousedown', dragStart);
@@ -101,4 +132,3 @@ title: 🌐 Главная
   document.addEventListener('mouseup', dragEnd);
   document.addEventListener('touchend', dragEnd);
 </script>
-
