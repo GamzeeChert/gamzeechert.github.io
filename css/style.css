@@ -17,29 +17,32 @@
 
 
 
-  #fixedTopRightButton {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    z-index: 9999;
-    padding: 12px 28px;
-    font-size: 16px;
-    font-weight: 600;
-    color: #FFFFFFDD;
-    background: rgba(255, 255, 255, 0.12);
-    backdrop-filter: saturate(180%) blur(20px);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    border-radius: 14px;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    transition: background 0.3s ease, border-color 0.3s ease;
-  }
-  #fixedTopRightButton:hover {
-    background: rgba(255, 255, 255, 0.25);
-    border-color: rgba(255, 255, 255, 0.4);
-  }
-  #fixedTopRightButton:active {
-    background: rgba(255, 255, 255, 0.35);
-    border-color: rgba(255, 255, 255, 0.5);
-  }
+
+#fixedTopRightButton {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 9999;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #FFFFFFDD;
+  background: rgba(255, 255, 255, 0.08); /* уменьшена прозрачность */
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+#fixedTopRightButton:hover {
+  background: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+#fixedTopRightButton:active {
+  background: rgba(255, 255, 255, 0.35);
+  border-color: rgba(255, 255, 255, 0.5);
+}
