@@ -26,3 +26,6 @@ title: 🌐 Главная
 - - - - -
 
 ![MGSlogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSlogo.jpg?raw=true)
+
+### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте:
+<a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
