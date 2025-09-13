@@ -2,10 +2,12 @@
 title: 🎮 Game Rules
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # 📄 Игровые правила
 
-##### 🌐 [Главная страница](./index.md)
-##### 🔗 [Раздел ссылок](./links.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
+<a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
 
 - - - - -
 
