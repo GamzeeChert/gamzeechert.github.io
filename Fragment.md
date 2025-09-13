@@ -49,7 +49,7 @@ title: 💎 Fragment - Аукцион
 
 
 
-<!-- <button id="fixedTopRightButton">
+<button id="fixedTopRightButton">
   🚧 Test Button 🚧
 </button>
 
@@ -189,4 +189,4 @@ title: 💎 Fragment - Аукцион
   document.addEventListener('touchmove', dragMove, {passive: false});
   document.addEventListener('mouseup', dragEnd);
   document.addEventListener('touchend', dragEnd);
-</script> -->
+</script>
