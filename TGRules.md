@@ -2,10 +2,12 @@
 title: 📜 Telegram Rules - Раздел с правилами
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # 📃 Правила для чатов Telegram
 
-##### 🌐 [Главная страница](./index.md)
-##### 🔗 [Раздел ссылок](./links.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
+<a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
 
 - - - - -
 
