@@ -2,10 +2,12 @@
 title: 🛍️ Madness Games Store - Навигация
 ---
 
+<link rel="stylesheet" href="css/style.css">
+
 # 🎮 Список игр в магазине
 
-##### 🌐 [Главная страница](./index.md)
-##### 🔗 [Раздел ссылок](./links.md)
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
+<a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
 
 - - - - -
 
