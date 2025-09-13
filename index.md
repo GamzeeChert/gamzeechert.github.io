@@ -31,7 +31,9 @@ title: 🌐 Главная
 
 #### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
 
-<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">👀</button>
+<button id="fixedTopRightButton" onclick="window.location.href='https://t.me/Gamzee_Chertanovskiy'">
+  Перейти в Telegram
+</button>
 
 <script>
   const btn = document.getElementById('fixedTopRightButton');
@@ -44,36 +46,59 @@ title: 🌐 Главная
   let isDragging = false;
   let offsetX, offsetY;
 
-  btn.addEventListener('mousedown', function(e) {
+  function dragStart(e) {
+    e.preventDefault();
     isDragging = true;
-    offsetX = e.clientX - btn.getBoundingClientRect().left;
-    offsetY = e.clientY - btn.getBoundingClientRect().top;
-    btn.style.transition = 'none'; 
-  });
+    const rect = btn.getBoundingClientRect();
+    if (e.type === 'mousedown') {
+      offsetX = e.clientX - rect.left;
+      offsetY = e.clientY - rect.top;
+    } else if (e.type === 'touchstart') {
+      offsetX = e.touches[0].clientX - rect.left;
+      offsetY = e.touches[0].clientY - rect.top;
+    }
+    btn.style.transition = 'none';
+  }
 
-  document.addEventListener('mouseup', function() {
-    if(isDragging) {
+  function dragMove(e) {
+    if (!isDragging) return;
+    e.preventDefault();
+    let clientX, clientY;
+    if (e.type === 'mousemove') {
+      clientX = e.clientX;
+      clientY = e.clientY;
+    } else if (e.type === 'touchmove') {
+      clientX = e.touches[0].clientX;
+      clientY = e.touches[0].clientY;
+    }
+    let x = clientX - offsetX;
+    let y = clientY - offsetY;
+
+    const maxX = window.innerWidth - btn.offsetWidth;
+    const maxY = window.innerHeight - btn.offsetHeight;
+    if (x < 0) x = 0;
+    if (y < 0) y = 0;
+    if (x > maxX) x = maxX;
+    if (y > maxY) y = maxY;
+
+    btn.style.left = x + 'px';
+    btn.style.top = y + 'px';
+    btn.style.right = 'auto';
+  }
+
+  function dragEnd(e) {
+    if (isDragging) {
+      e.preventDefault();
       isDragging = false;
-      btn.style.transition = ''; 
+      btn.style.transition = '';
     }
-  });
+  }
 
-  document.addEventListener('mousemove', function(e) {
-    if(isDragging) {
-      let x = e.clientX - offsetX;
-      let y = e.clientY - offsetY;
-
-      // Ограничиваем движение по окну браузера
-      const maxX = window.innerWidth - btn.offsetWidth;
-      const maxY = window.innerHeight - btn.offsetHeight;
-      if(x < 0) x = 0;
-      if(y < 0) y = 0;
-      if(x > maxX) x = maxX;
-      if(y > maxY) y = maxY;
-
-      btn.style.left = x + 'px';
-      btn.style.top = y + 'px';
-      btn.style.right = 'auto';  
-    }
-  });
+  btn.addEventListener('mousedown', dragStart);
+  btn.addEventListener('touchstart', dragStart, {passive: false});
+  document.addEventListener('mousemove', dragMove);
+  document.addEventListener('touchmove', dragMove, {passive: false});
+  document.addEventListener('mouseup', dragEnd);
+  document.addEventListener('touchend', dragEnd);
 </script>
+
