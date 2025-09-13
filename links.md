@@ -4,8 +4,7 @@ title: 🔗 Ссылки
 
 <link rel="stylesheet" href="css/style.css">
 
-##### 🌐 [Главная страница](./index.md)
-##### <a href="./TGRules.html" class="button-link">📜 Правила Telegram</a>
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
 
 - - - - -
 
