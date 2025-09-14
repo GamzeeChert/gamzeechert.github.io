@@ -27,14 +27,17 @@
   font-size: 16px;
   font-weight: 600;
   color: #FFFFFFDD;
-  background: rgba(255, 255, 255, 0.08); /* уменьшена прозрачность */
+  background: rgba(255, 255, 255, 0.08);
   backdrop-filter: saturate(180%) blur(20px);
-  -webkit-backdrop-filter: saturate(180%) blur(20px);
   border-radius: 14px;
   border: 1px solid rgba(255, 255, 255, 0.25);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   cursor: pointer;
   transition: background 0.3s ease, border-color 0.3s ease;
+
+  user-select: none;           /* Запрет выделения текста */
+  -webkit-user-drag: none;     /* Запрет перетаскивания в браузерах на WebKit */
+  -webkit-touch-callout: none; /* Отключение меню по долгому нажатию на iOS */
 }
 
 #fixedTopRightButton:hover {
