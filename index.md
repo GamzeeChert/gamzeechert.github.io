@@ -12,7 +12,7 @@ title: 🌐 Главная
 <a href="./MGSMain.html" class="button-link">🛍️ Madness Games Store</a>
 ## <a href="./Fragment.html" class="button-link">💎 Fragment</a>
 
-<a href="./links.html" class="button2-link">🔗 Социальные сети</a>
+<a href="./links.html" class="button-link">🔗 Социальные сети</a>
 
 - - - - -
 
@@ -29,4 +29,4 @@ title: 🌐 Главная
 
 - - - - -
 
-#### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button-link">GamzeeChert</a>
+#### 💡 Предложить идею для улучшения сайта / ⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button2-link">GamzeeChert</a>
