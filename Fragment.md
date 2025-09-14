@@ -43,3 +43,30 @@ title: 💎 Fragment - Аукцион
 `Информация обновлена 13.09.2025`
 
 
+
+
+
+<button id="menuButton" aria-label="Открыть меню" title="Меню"></button>
+
+<nav id="sideMenu" class="hidden">
+  <ul>
+    <li><a href="./index.html">Главная страница</a></li>
+    <li><a href="./links.html">Раздел ссылок</a></li>
+    <li><a href="#">Тест</a></li>
+  </ul>
+</nav>
+
+<script>
+  const button = document.getElementById('menuButton');
+  const menu = document.getElementById('sideMenu');
+
+  button.addEventListener('click', () => {
+    menu.classList.toggle('hidden');
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!menu.contains(e.target) && !button.contains(e.target)) {
+      menu.classList.add('hidden');
+    }
+  });
+</script>
