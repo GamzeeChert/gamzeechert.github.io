@@ -5,14 +5,14 @@ title: 🌐 Главная
 
 # 👋🏻 Добро пожаловать!
 
-## <a href="./TGRules.html" class="button-link">📜 Правила Telegram</a>
-## <a href="./GameRules.html" class="button-link">🎮 Игровые правила</a>
-## <a href="./GameGuide.html" class="button-link">📚 Игровое руководство</a>
+<a href="./TGRules.html" class="button-link">📜 Правила Telegram</a>
+<a href="./GameRules.html" class="button-link">🎮 Игровые правила</a>
+<a href="./GameGuide.html" class="button-link">📚 Игровое руководство</a>
 
-## <a href="./MGSMain.html" class="button-link">🛍️ Madness Games Store</a>
+<a href="./MGSMain.html" class="button-link">🛍️ Madness Games Store</a>
 ## <a href="./Fragment.html" class="button-link">💎 Fragment</a>
 
-## <a href="./links.html" class="button-link">🔗 Социальные сети</a>
+<a href="./links.html" class="button-link">🔗 Социальные сети</a>
 
 - - - - -
 
