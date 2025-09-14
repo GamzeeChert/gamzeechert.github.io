@@ -78,7 +78,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
    - **AdsBlock + 350 CR** - 300.00 руб / 184 TGs
    - **Robot Pack** - 149.00 руб / 92 TGS
 
-<a href="https://t.me/m/SvEAzEGNYWUy" class="button-link">🛍️ Купить у продавца</a>
+<a href="https://t.me/m/SvEAzEGNYWUy" class="button2-link">🛍️ Купить у продавца</a>
 
 - - - - -
 
