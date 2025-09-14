@@ -43,7 +43,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
    - **Panda #3** - 99.99 руб / 62 TGs
    - **Crocodile** - 75.00 руб / 47 TGs
 
-<a href="https://t.me/m/SvEAzEGNYWUy" class="button-link">🛍️ Купить у продавца</a>
+<a href="https://t.me/m/SvEAzEGNYWUy" class="button2-link">🛍️ Купить у продавца</a>
 
 - - - - -
 
