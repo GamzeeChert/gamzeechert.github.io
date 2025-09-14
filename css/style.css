@@ -3,28 +3,29 @@
     display: inline-block;
     padding: 10px 24px;
     margin: 8px 0;
-    background-color: #333333;
     color: #e3ffe3;
     border-radius: 18px;
     text-decoration: none;
     font-size: 18px;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
     border: 2px dashed;
     transition: box-shadow 0.3s, background-color 0.3s;
 }
 
 .button-link {
-    border-color: #94f123;
+    background-color: #6ab04c;
+    border-color: #4a7c2a;
 }
 .button-link:hover {
-    box-shadow: 0 0 10px 2px #43ff4388;
-    background-color: #d5ff4c;
+    box-shadow: 0 0 12px 4px #8cd85e88;
+    background-color: #8cd85e;
 }
 
 .button2-link {
-    border-color: #23174f;
+    background-color: #75529a;
+    border-color: #50356a;
 }
 .button2-link:hover {
-    box-shadow: 0 0 10px 2px #80008088;
-    background-color: #533c73;
+    box-shadow: 0 0 12px 4px #aa7ed488;
+    background-color: #aa7ed4;
 }
