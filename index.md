@@ -12,7 +12,7 @@ title: 🌐 Главная
 <a href="./MGSMain.html" class="button-link">🛍️ Madness Games Store</a>
 ## <a href="./Fragment.html" class="button-link">💎 Fragment</a>
 
-<a href="./links.html" class="button-link">🔗 Социальные сети</a>
+<a href="./links.html" class="button2-link">🔗 Социальные сети</a>
 
 - - - - -
 
