@@ -14,17 +14,17 @@
 }
 
 .button-link {
-    border-color: #b6e65b;
+    border-color: #94f123;
 }
 .button-link:hover {
     box-shadow: 0 0 10px 2px #43ff4388;
-    background-color: #444444;
+    background-color: #d5ff4c;
 }
 
 .button2-link {
-    border-color: #800080;
+    border-color: #23174f;
 }
 .button2-link:hover {
     box-shadow: 0 0 10px 2px #80008088;
-    background-color: #444444;
+    background-color: #533c73;
 }
