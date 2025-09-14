@@ -1,16 +1,30 @@
-.button-link {
+.button-link,
+.button2-link {
     display: inline-block;
     padding: 10px 24px;
     margin: 8px 0;
     background-color: #333333;
     color: #e3ffe3;
-    border: 2px dashed #b6e65b;
     border-radius: 18px;
     text-decoration: none;
     font-size: 18px;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    border: 2px dashed;
+    transition: box-shadow 0.3s, background-color 0.3s;
+}
+
+.button-link {
+    border-color: #b6e65b;
 }
 .button-link:hover {
     box-shadow: 0 0 10px 2px #43ff4388;
+    background-color: #444444;
+}
+
+.button2-link {
+    border-color: #800080;
+}
+.button2-link:hover {
+    box-shadow: 0 0 10px 2px #80008088;
     background-color: #444444;
 }
