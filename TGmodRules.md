@@ -97,3 +97,5 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 - - - - -
 
 <a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
+
+[testpiccat](https://www.purina.ru/sites/default/files/styles/ttt_image_510/public/2021-02/CAT%20BREED%20Hero%20Mobile_0003_Sphynx.webp?raw=true)
