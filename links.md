@@ -24,8 +24,8 @@ title: 🔗 Ссылки
 | Название/Ссылка | Картинка |
 |:----------|:------------|
 | 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/+WA4ubIKzWSsxOWRi) | ![G_Cchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FG_Cchat.jpg?raw=true) |
-| 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | ![SSBCUchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBCUchat.png?raw=true) |
 | 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchat.jpg?raw=true) |
+| 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | ![SSBCUchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBCUchat.png?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchat.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchat.jpg?raw=true) |
 
