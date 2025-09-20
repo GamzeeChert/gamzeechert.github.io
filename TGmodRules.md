@@ -97,3 +97,5 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 - - - - -
 
 <a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
+
+[testpicYT](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_icons%2FYouTube.png?raw=true)
