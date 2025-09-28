@@ -11,22 +11,6 @@ title: 📚 Game  Guide
 
 - - - - -
 
-<a href="#tag0" class="button-link">🐛 Игровые баги</a>
-<a href="#tag1" >🕯️ Удаление/переустановка игры</a>
-<a href="#tag2" class="button-link">🗺️ Установка игровых карт</a>
-<a href="#tag3" class="button-link">👥 Настройки сервера</a>
-<a href="#tag4" class="button-link">👤 Игровые настройки</a>
-<a href="#tag5" class="button-link">🛡️ Безопасный режим</a>
-<a href="#tag6" class="button-link">🪽 Режим полёта</a>
-<a href="#tag7" class="button-link">🔨 Функции строительства</a>
-<a href="#tag8" class="button-link">🚧 Игровая блокировка</a>
-<a href="#tag9" class="button-link">🔠 Текст на табличках в мультиплеере</a>
-<a href="#tag10" class="button-link">⛔ Невозможно подключиться к мультиплееру</a>
-<a href="#tag11" class="button-link">📺 Не работает реклама</a>
-<a href="#tag12" class="button-link">🪪 Не подключается к аккаунту</a>
-
-- - - - -
-
 <h1 id="tag0">🐛 Игровые баги</h1>
 
 Если вы наткнулись на **баг в игре**, вы можете сообщить о нём. Информация будет передана разработчикам.
