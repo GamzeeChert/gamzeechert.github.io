@@ -17,9 +17,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
             requestPassword();
           } else {
             alert("Доступ запрещен.");
-            document.body.innerHTML = "<h2>Доступ запрещен</h2>
-
-<a href="./index.html" class="button-link">🌐 Главная страница</a>";
+            document.body.innerHTML = "<h2>Доступ запрещен</h2>";
           }
         }
       }
