@@ -4,11 +4,6 @@
   <meta charset="UTF-8" />
   <title>📜 Telegram Rules - Раздел для модераторов и стажёров</title>
   <link rel="stylesheet" href="css/style.css" />
-  <style>
-    #content {
-      display: none;
-    }
-  </style>
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const correctPassword = "1218667";
