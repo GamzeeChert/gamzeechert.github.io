@@ -1,10 +1,40 @@
----
-title: 📜 Telegram Rules - Раздел для модераторов и стажёров
----
-<link rel="stylesheet" href="css/style.css">
-
-
-# 📝 Правила и шаблоны наказаний для чатов Telegram
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>📜 Telegram Rules - Раздел для модераторов и стажёров</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <style>
+    #content {
+      display: none;
+    }
+  </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const correctPassword = "1218667";
+      let tries = 0;
+      function requestPassword() {
+        let pwd = prompt("Введите пароль для доступа к странице:");
+        if (pwd === correctPassword) {
+          document.getElementById("content").style.display = "block";
+        } else {
+          tries++;
+          if (tries < 3) {
+            alert("Неверный пароль, попробуйте снова.");
+            requestPassword();
+          } else {
+            alert("Доступ запрещен.");
+            document.body.innerHTML = "<h2>Доступ запрещен</h2>";
+          }
+        }
+      }
+      requestPassword();
+    });
+  </script>
+</head>
+<body>
+  <div id="content">
+    # 📝 Правила и шаблоны наказаний для чатов Telegram
 ## ⚜️ Раздел с информацией для модераторов и стажёров.
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
@@ -182,3 +212,6 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 <br>🙊 - Команды, доступные ограничителю (модератору на стажировке);
 <br>👥 - Команды, доступные всем пользователям группы;
 <br>❓ - При условии, если не изменено в настройках группы через бота.
+  </div>
+</body>
+</html>
