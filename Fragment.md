@@ -37,6 +37,7 @@ title: 💎 Fragment - Аукцион
 | 🐕‍🦺 @SnoopieDoopieDoggie | N/A |
 
 [🗓️ Desk Calendar #294,086](https://t.me/nft/DeskCalendar-294086) - 2 TON
+\n
 [📔 Star Notepad #25,542](t.me/nft/StarNotepad-25542) - 5 TON
 
 - - - - -
