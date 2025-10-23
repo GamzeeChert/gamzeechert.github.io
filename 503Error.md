@@ -12,3 +12,7 @@ title: 🚧 Временно недоступно
 - - - - -
 
 ![Ash](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FAsh.gif)
+
+- - - - -
+
+⚠️ Сообщить о проблеме на сайте: <a href="https://t.me/Gamzee_Chertanovskiy" class="button2-link">GamzeeChert</a>
