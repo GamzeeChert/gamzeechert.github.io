@@ -11,7 +11,7 @@ title: 🚧 Временно недоступно
 
 - - - - -
 
-![Ash](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FAsh.gif)
+![Ash](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FAsh.gif?raw=true)
 
 - - - - -
 
