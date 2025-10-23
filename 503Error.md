@@ -11,4 +11,4 @@ title: 🛍️ Madness Games Store - Навигация
 
 - - - - -
 
-![Ash](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FAsh.gif?raw=true)
+![Ash](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FAsh.gif)
