@@ -16,7 +16,7 @@ title: 💎 Fragment - Аукцион
 
 | Аукцион | Начальная ставка |
 |:--------|:-----------------|
-| 👾 [@cursed_vega](https://fragment.com/username/cursed_vega) | <span style="color: emerald;">10 TON</span> |
+| 👾 [@cursed_vega](https://fragment.com/username/cursed_vega) | <span style="color: lime;">10 TON</span> |
 | ⭐ [@tgstars_draw](https://fragment.com/username/tgstars_draw) | 30 TON |
 | ✨ @kikakoki | N/A |
 | 🏦 @tbank_vote | N/A |
