@@ -17,12 +17,12 @@ title: 💎 Fragment - Аукцион
 | Аукцион | Начальная ставка |
 |:--------|:-----------------|
 | 👾 [@cursed_vega](https://fragment.com/username/cursed_vega) | <span style="color: lime;">10 TON</span> |
-| ⭐ [@tgstars_draw](https://fragment.com/username/tgstars_draw) | 30 TON |
+| ⭐ [@tgstars_draw](https://fragment.com/username/tgstars_draw) | <span style="color: lime;">30 TON</span> |
 | ✨ @kikakoki | N/A |
 | 🏦 @tbank_vote | N/A |
 | 🛒 @RuStoreSale | N/A |
 | 🇷🇺 @indie_gamedev_russia | N/A |
-| 🇷🇺 [@indie_gamedev_rus](https://fragment.com/username/indie_gamedev_rus) | 15 TON |
+| 🇷🇺 [@indie_gamedev_rus](https://fragment.com/username/indie_gamedev_rus) | <span style="color: lime;">15 TON</span> |
 | 🇷🇺 @indie_gamedev_ru | N/A |
 | 🇰🇿 @indie_gamedev_kazakhstan | N/A |
 | 🇰🇿 @indie_gamedev_kz | N/A |
@@ -36,9 +36,9 @@ title: 💎 Fragment - Аукцион
 | 🐩 @SnoopieDoopieDoggy | N/A |
 | 🐕‍🦺 @SnoopieDoopieDoggie | N/A |
 
-[🗓️ Desk Calendar #294,086](https://t.me/nft/DeskCalendar-294086) - SOLD
+[🗓️ Desk Calendar #294,086](https://t.me/nft/DeskCalendar-294086) - <span style="color: red;">SOLD</span>
 - - - - -
-[📔 Star Notepad #25,542](https://t.me/nft/StarNotepad-25542) - 5 TON
+[📔 Star Notepad #25,542](https://t.me/nft/StarNotepad-25542) - <span style="color: lime;">5 TON</span>
 
 - - - - -
 
