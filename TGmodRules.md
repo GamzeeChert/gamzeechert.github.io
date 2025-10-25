@@ -4,7 +4,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 <link rel="stylesheet" href="css/style.css">
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const correctPassword = "1218667";
+      const correctPassword = "532917";
       let tries = 0;
       function requestPassword() {
         let pwd = prompt("Введите пароль для доступа к странице:");
