@@ -38,8 +38,8 @@ title: 💎 Fragment - Аукцион
 
 [🗓️ Desk Calendar #294,086](https://t.me/nft/DeskCalendar-294086) - <span style="color: red;">SOLD</span>
 - - - - -
-[📔 Star Notepad #25,542](https://t.me/nft/StarNotepad-25542) - <span style="color: lime;">5 TON</span>
+[📔 Star Notepad #25,542](https://t.me/nft/StarNotepad-25542) - <span style="color: lime;">950 TGs</span>
 
 - - - - -
 
-`Информация обновлена 24.10.2025`
+`Информация обновлена 30.10.2025`
