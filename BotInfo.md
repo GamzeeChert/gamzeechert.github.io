@@ -4,7 +4,7 @@ title: 🤖 Bot Info
 
 <link rel="stylesheet" href="css/style.css">
 
-# ℹ️ Информация о ботах
+# 🤖 Информация о ботах
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
 <a href="./links.html" class="button-link">🔗 Раздел ссылок</a>
