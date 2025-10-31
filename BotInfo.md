@@ -15,10 +15,13 @@ title: 🤖 Bot Info
 
 ### Бот-модератор для групп.
 
-At The Watching Eye, accessible from @TheWatchingEyeBot on Telegram one of our main priorities is the privacy of our users.
+<details>
+  <summary>Privacy Policy</summary>
+  <p>At The Watching Eye, accessible from @TheWatchingEyeBot on Telegram one of our main priorities is the privacy of our users.
 This Privacy Policy document contains types of information that is collected and recorded by The Watching Eye.
 
-This Privacy Policy applies only to our online activities and is valid for users who come into contact to our Telegram Bots with regards to the information that they shared and/or collect in The Watching Eye or that Telegram shares with The Watching Eye related to them. This policy is not applicable to any information collected offline or via channels other than these Telegram Bots.
+This Privacy Policy applies only to our online activities and is valid for users who come into contact to our Telegram Bots with regards to the information that they shared and/or collect in The Watching Eye or that Telegram shares with The Watching Eye related to them. This policy is not applicable to any information collected offline or via channels other than these Telegram Bots.</p>
+</details>
 
 - - - - -
 
