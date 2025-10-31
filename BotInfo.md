@@ -40,6 +40,7 @@ The lawful bases we rely on for processing your information are:</p>
 </li>
 <li>We pursue the legitimate interest of groups and their group managers, who use our services also for 360-degree management of the same.</li>
 </ul>
+<p>This doesn't affect your rights, which are explained in detail later in this document.</p>
 </details>
 
 
