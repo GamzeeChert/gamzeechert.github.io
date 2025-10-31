@@ -11,9 +11,9 @@ title: 🤖 Bot Info
 
 - - - - -
 
-[👁️‍🗨️ The Watching Eye](https://t.me/TheWatchingEyeBot)
+# [👁️‍🗨️ The Watching Eye](https://t.me/TheWatchingEyeBot)
 
-# Бот-модератор для групп.
+### Бот-модератор для групп.
 
 At The Watching Eye, accessible from @TheWatchingEyeBot on Telegram one of our main priorities is the privacy of our users.
 This Privacy Policy document contains types of information that is collected and recorded by The Watching Eye.
