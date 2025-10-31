@@ -132,6 +132,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 | 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | ![SSBCUchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBCUchat.jpg?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchat.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchannel.jpg?raw=true) |
+| 🚗 - [Simple Car Simulator Chat](https://t.me/ChatScsMobile) | ![SCSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSCSchannel.png?raw=true) |
 
 - - - - -
 
