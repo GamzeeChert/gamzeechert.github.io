@@ -16,6 +16,7 @@ title: 🔗 Ссылки
 | 🎮 - [Simple SandBox](https://t.me/simple_sandbox) | ![SSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchannel.png?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox](https://t.me/SimpleSandBoxRecommendedMaps) | ![RMSSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchannel.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox) | ![PSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchannel.jpg?raw=true) |
+| 🚗 - [Simple Car Simulator](https://t.me/SCSMobile) | ![SCSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSCSchannel.png?raw=true) |
 
 - - - - - 
 
@@ -28,6 +29,7 @@ title: 🔗 Ссылки
 | 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | ![SSBCUchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBCUchat.jpg?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchat.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchannel.jpg?raw=true) |
+| 🚗 - [Simple Car Simulator Chat](https://t.me/ChatScsMobile) | ![SCSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSCSchannel.png?raw=true) |
 
 - - - - -
 
