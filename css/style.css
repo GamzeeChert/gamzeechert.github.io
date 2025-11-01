@@ -43,25 +43,25 @@
 
 
 
-details {
+.details {
   margin-left: 20px;   /* Отступ слева для вложенных details */
   margin-bottom: 10px; /* Отступ снизу для разделения блоков */
   padding-left: 10px;  /* Внутренний отступ слева */
   border-left: 2px solid #ccc; /* Линия слева для визуализации вложенности */
 }
 
-summary {
+.summary {
   font-weight: bold;
   cursor: pointer;
   margin-bottom: 5px; /* Отступ под заголовком */
 }
 
-ul {
+.ul {
   margin-left: 20px;   /* Отступ для списка внутри details */
   padding-left: 20px;  /* Внутренний отступ для списка */
   margin-bottom: 10px; /* Отступ снизу для списка */
 }
 
-li {
+.li {
   margin-bottom: 5px;  /* Отступ между пунктами списка */
 }
