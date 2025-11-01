@@ -20,10 +20,10 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
   <details>
     <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
     <ul>
-      <li class="typing-effect"><strong>90.000 SC</strong> - 55.00 руб / 35 TGs</li>
-      <li class="typing-effect"><strong>200.000 SC</strong> - 109.00 руб / 68 TGs</li>
-      <li class="typing-effect"><strong>320.000 SC</strong> - 159.00 руб / 99 TGs</li>
-      <li class="typing-effect"><strong>500.000 SC</strong> - 219.00 руб / 135 TGs</li>
+      <li><strong>90.000 SC</strong> - 55.00 руб / 35 TGs</li>
+      <li><strong>200.000 SC</strong> - 109.00 руб / 68 TGs</li>
+      <li><strong>320.000 SC</strong> - 159.00 руб / 99 TGs</li>
+      <li><strong>500.000 SC</strong> - 219.00 руб / 135 TGs</li>
     </ul>
   </details>
   <details>
@@ -52,25 +52,3 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
 `Список товаров обновлён 02.09.2025`
 
 <!-- ⏳ Временно недоступно -->
-
-document.querySelectorAll('details').forEach(detail => {
-  detail.addEventListener('toggle', () => {
-    const items = detail.querySelectorAll('li.typing-effect');
-    if (detail.open) {
-      items.forEach(li => {
-        li.classList.add('active');
-
-        // Сбрасываем стиль width после окончания анимации,
-        // чтобы можно было анимировать повторно при следующем открытии
-        li.addEventListener('animationend', () => {
-          li.style.width = 'auto';
-        }, { once: true });
-      });
-    } else {
-      items.forEach(li => {
-        li.classList.remove('active');
-        li.style.width = 0; // сбрасываем ширину для новой анимации
-      });
-    }
-  });
-});
