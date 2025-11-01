@@ -15,6 +15,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
 
 ## Доступные товары
 
+<details>
 <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Валюта</summary>
 <details>
   <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
