@@ -39,6 +39,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
     <li><strong>17.500 CR</strong> - 4499.00 руб / 2745 TGs</li>
   </ul>
 </details>
+</details>
 
 <details>
   <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
