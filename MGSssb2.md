@@ -57,7 +57,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
   </ul>
 </details>
 <details>
-<summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Apocalypse Wasteland Bundle</summary>
+<summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Wasteland Bundle</summary>
   <ul>
     <li><strong>Apocalypse Wasteland (All Pack)</strong> - 1125.00 руб / 688 TGs</li>
     <li><strong>Apocalypse Wasteland (Props)</strong> - 799.00 руб / 489 TGs</li>
