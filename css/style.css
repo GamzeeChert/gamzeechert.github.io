@@ -68,18 +68,15 @@ details[open] > summary {
   color: #b5e853;
 }
 
-/* Хайд дефолтного маркера стрелки браузера */
-/* Для Webkit (Chrome, Safari и др.) */
+/* Скрываем стандартную стрелку браузера */
 details > summary::-webkit-details-marker {
   display: none;
 }
-
-/* Для других браузеров */
 details > summary::marker {
   content: "";
 }
 
-/* Добавление кастомной стрелки перед summary */
+/* Кастомный маркер-стрелка */
 details > summary::before {
   content: "|";
   display: inline-block;
@@ -88,30 +85,31 @@ details > summary::before {
   transition: transform 0.3s ease;
 }
 
-/* Поворот кастомной стрелки при открытии details */
+/* Поворот кастомной стрелки при открытии */
 details[open] > summary::before {
   transform: rotate(90deg);
 }
 
-/* Основной стиль для li с эффектом печати - выключенная анимация */
+/* Основной стиль для li с эффектом печати - без анимации */
 li.typing-effect {
-  white-space: nowrap;           /* чтобы не переносить текст */
-  overflow: hidden;              /* хайд текста за пределами ширины */
-  border-right: 2px solid transparent; /* курсор скрыт по умолчанию */
-  font-family: monospace, monospace; /* шрифт, как в терминале */
+  display: inline-block; /* важно для анимации ширины */
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid transparent; /* курсор скрыт */
+  font-family: monospace, monospace;
   font-size: 16px;
   width: 0;
   transition: none;
 }
 
-/* Класс для запуска анимации */
+/* Класс, запускающий анимацию typing */
 li.typing-effect.active {
   animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
   width: 100%;
-  border-right-color: #dfffdfff; /* курсор видим */
+  border-right-color: #dfffdfff; /* видимый курсор */
 }
 
-/* Анимация появления текста */
+/* Анимация набора текста */
 @keyframes typing {
   from {
     width: 0;
@@ -121,7 +119,7 @@ li.typing-effect.active {
   }
 }
 
-/* Анимация мигающего курсора */
+/* Мигающий курсор */
 @keyframes blink-caret {
   0%, 100% {
     border-color: transparent;
