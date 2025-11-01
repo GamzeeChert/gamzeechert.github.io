@@ -16,7 +16,7 @@ title: 🛍️ Madness Games Store - SandBox Experimental
 ## Доступные товары
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; size: 30;">Валюта</summary>
+  <summary style="padding-left: 10px; color: #b5e853; font-size: 20px;">Валюта</summary>
   <details>
     <summary style="padding-left: 30px; color: #9cc648;">Монеты</summary>
     <ul>
