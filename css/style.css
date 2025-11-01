@@ -37,38 +37,32 @@
     background: rgba(170, 126, 212, 0.35);
 }
 
-/* Общие стили для details с плавной анимацией максимальной высоты */
 details {
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
-  max-height: 2.5em; /* высота summary в закрытом состоянии */
+  max-height: 2.5em;
 }
 
-/* Состояние раскрытого details */
 details[open] {
-  max-height: 500px; /* выставьте по высоте вашего контента */
+  max-height: 500px;
 }
 
-/* Стили для заголовка summary */
 details > summary {
   cursor: pointer;
   font-weight: bold;
   user-select: none;
   transition: color 0.3s ease;
-  list-style: none; /* убираем стандартный маркер */
+  list-style: none;
 }
 
-/* Цвет при наведении на summary */
 details > summary:hover {
   color: #aadd55;
 }
 
-/* Цвет заголовка, когда details раскрыт */
 details[open] > summary {
   color: #b5e853;
 }
 
-/* Скрываем стандартную стрелку браузера */
 details > summary::-webkit-details-marker {
   display: none;
 }
@@ -76,7 +70,6 @@ details > summary::marker {
   content: "";
 }
 
-/* Кастомный маркер-стрелка */
 details > summary::before {
   content: "|";
   display: inline-block;
@@ -85,7 +78,6 @@ details > summary::before {
   transition: transform 0.3s ease;
 }
 
-/* Поворот кастомной стрелки при открытии */
 details[open] > summary::before {
   transform: rotate(90deg);
 }
