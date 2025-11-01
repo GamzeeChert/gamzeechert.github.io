@@ -67,11 +67,11 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 details > summary::marker {
-  content: "";
+  content: "+";
 }
 
 details > summary::before {
-  content: "+ ";
+  content: "+";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
