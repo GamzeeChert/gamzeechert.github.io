@@ -4,25 +4,6 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
 
 <link rel="stylesheet" href="css/style.css">
 
-<script>
-document.querySelectorAll('details').forEach(detail => {
-  detail.addEventListener('toggle', () => {
-    const typingItems = detail.querySelectorAll('li.typing-effect');
-    if (detail.open) {
-      typingItems.forEach(li => {
-        // Добавляем класс для начала анимации
-        li.classList.add('active');
-      });
-    } else {
-      typingItems.forEach(li => {
-        // Убираем класс анимации при закрытии, чтоб можно было анимировать заново при следующем открытии
-        li.classList.remove('active');
-      });
-    }
-  });
-});
-</script>
-
 # Simple SandBox Classic
 
 ![MGSssbclogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssbclogo.png?raw=true)
@@ -71,3 +52,25 @@ document.querySelectorAll('details').forEach(detail => {
 `Список товаров обновлён 02.09.2025`
 
 <!-- ⏳ Временно недоступно -->
+
+document.querySelectorAll('details').forEach(detail => {
+  detail.addEventListener('toggle', () => {
+    const items = detail.querySelectorAll('li.typing-effect');
+    if (detail.open) {
+      items.forEach(li => {
+        li.classList.add('active');
+
+        // Сбрасываем стиль width после окончания анимации,
+        // чтобы можно было анимировать повторно при следующем открытии
+        li.addEventListener('animationend', () => {
+          li.style.width = 'auto';
+        }, { once: true });
+      });
+    } else {
+      items.forEach(li => {
+        li.classList.remove('active');
+        li.style.width = 0; // сбрасываем ширину для новой анимации
+      });
+    }
+  });
+});
