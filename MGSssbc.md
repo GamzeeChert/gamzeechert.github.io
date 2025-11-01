@@ -20,10 +20,10 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
   <details>
     <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
     <ul>
-      <li><strong>90.000 SC</strong> - 55.00 руб / 35 TGs</li>
-      <li><strong>200.000 SC</strong> - 109.00 руб / 68 TGs</li>
-      <li><strong>320.000 SC</strong> - 159.00 руб / 99 TGs</li>
-      <li><strong>500.000 SC</strong> - 219.00 руб / 135 TGs</li>
+      <li class="typing-effect"><strong>90.000 SC</strong> - 55.00 руб / 35 TGs</li>
+      <li class="typing-effect"><strong>200.000 SC</strong> - 109.00 руб / 68 TGs</li>
+      <li class="typing-effect"><strong>320.000 SC</strong> - 159.00 руб / 99 TGs</li>
+      <li class="typing-effect"><strong>500.000 SC</strong> - 219.00 руб / 135 TGs</li>
     </ul>
   </details>
   <details>
