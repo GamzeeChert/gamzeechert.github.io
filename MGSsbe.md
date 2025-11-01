@@ -15,22 +15,8 @@ title: 🛍️ Madness Games Store - SandBox Experimental
 
 ## Доступные товары
 
-<!-- - Валюта:
-   - Монеты:
-     - **90.000 SC** - 65.00 руб / 41 TGs
-     - **200.000 SC** - 129.00 руб / 80 TGs
-     - **320.000 SC** - 189.00 руб / 117 TGs
-     - **500.000 SC** - 249.00 руб / 154 TGs
-   - Кристаллы:
-     - **100 CR** - 65.00 руб / 41 TGs
-     - **300 CR** - 129.00 руб / 80 TGs
-     - **700 CR** - 189.00 руб / 117 TGs
-     - **1200 CR** - 249.00 руб / 154 TGs
- - Паки:
-   - **Jetpack + 2 cars + AdBlock + 600.000 SC + 1500 CR** - 599.00 руб / 368 TGs -->
-
 <details>
-  <summary style="padding-left: 10px; color: #b5e853;">Валюта</summary>
+  <summary style="padding-left: 10px; color: #b5e853; size: 30;">Валюта</summary>
   <details>
     <summary style="padding-left: 30px; color: #9cc648;">Монеты</summary>
     <ul>
