@@ -36,3 +36,46 @@
     box-shadow: 0 0 12px 4px rgba(170, 126, 212, 0.5);
     background: rgba(170, 126, 212, 0.35);
 }
+
+details {
+  overflow: hidden;
+  transition: max-height 0.5s ease-in-out;
+  max-height: 2.5em; /* высота заголовка summary в закрытом состоянии */
+}
+
+details[open] {
+  max-height: 500px; /* большая высота для раскрытого содержимого, подкорректировать, если что */
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: bold;
+  user-select: none;
+  transition: color 0.3s ease;
+}
+
+details > summary:hover {
+  color: #aadd55;
+}
+
+details[open] > summary {
+  color: #b5e853; /* цвет заголовка активного блока */
+}
+
+/* Хайд стандартного маркера стрелки */
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Стили для пользовательской стрелки */
+details > summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 6px;
+  transform-origin: center;
+  transition: transform 0.3s ease;
+}
+
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
