@@ -49,12 +49,14 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 
 <details>
   <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
-  <ul>
+  <details>
 <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Apocalypse Bundle</summary>
   <ul>
     <li><strong>Apocalypse Pack</strong> - 900.00 руб / 550 TGs</li>
     <li><strong>Apocalypse Interiors Pack</strong> - 250.00 руб / 154 TGs</li>
   </ul>
+</details>
+<details>
 <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Apocalypse Wasteland Bundle</summary>
   <ul>
     <li><strong>Apocalypse Wasteland (All Pack)</strong> - 1125.00 руб / 688 TGs</li>
@@ -62,6 +64,8 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
     <li><strong>Apocalypse Wasteland (Cars)</strong> - 499.00 руб / 306 TGs</li>
     <li><strong>Apocalypse Wasteland (Characters)</strong> - 400.00 руб / 245 TGs</li>
   </ul>
+</details>
+<ul>
     <li><strong>Stalker Pack</strong> - 699.00 руб / 428 TGs</li>
     <li><strong>Cyber Ninja Pack</strong> - 1000.00 руб / 611 TGs</li>
     <li><strong>Starter Pack</strong> - 350.00 руб / 215 TGs</li>
