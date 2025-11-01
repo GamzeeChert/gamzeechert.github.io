@@ -81,7 +81,7 @@ details > summary::marker {
 
 /* Добавление кастомной стрелки перед summary */
 details > summary::before {
-  content: "▶";
+  content: "|";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
