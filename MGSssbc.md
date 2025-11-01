@@ -15,20 +15,35 @@ title: 🛍️ Madness Games Store - Simple SandBox Classic
 
 ## Доступные товары
 
- - Валюта:
-   - Монеты:
-     - **90.000 SC** - 55.00 руб / 35 TGs
-     - **200.000 SC** - 109.00 руб / 68 TGs
-     - **320.000 SC** - 159.00 руб / 99 TGs
-     - **500.000 SC** - 219.00 руб / 135 TGs
-   - Кристаллы:
-     - **100 CR** - 55.00 руб / 35 TGs
-     - **300 CR** - 109.00 руб / 68 TGs
-     - **700 CR** - 159.00 руб / 99 TGs
-     - **1200 CR** - 219.00 руб / 135 TGs
- - Паки:
-   - **Business Jet + VIP Limousine + AdBlock + 550.000 SC + 1500 CR** - 449.00 руб / 278 TGs
-   - **Shop Interiors Items** - 169.00 руб / 105 TGs
+<details>
+  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Валюта</summary>
+  <details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
+    <ul>
+      <li><strong>90.000 SC</strong> - 55.00 руб / 35 TGs</li>
+      <li><strong>200.000 SC</strong> - 109.00 руб / 68 TGs</li>
+      <li><strong>320.000 SC</strong> - 159.00 руб / 99 TGs</li>
+      <li><strong>500.000 SC</strong> - 219.00 руб / 135 TGs</li>
+    </ul>
+  </details>
+  <details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Кристаллы</summary>
+    <ul>
+      <li><strong>100 CR</strong> - 55.00 руб / 35 TGs</li>
+      <li><strong>300 CR</strong> - 109.00 руб / 68 TGs</li>
+      <li><strong>700 CR</strong> - 159.00 руб / 99 TGs</li>
+      <li><strong>1200 CR</strong> - 219.00 руб / 135 TGs</li>
+    </ul>
+  </details>
+</details>
+
+<details>
+  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
+  <ul>
+    <li><strong>Business Jet + VIP Limousine + AdBlock + 550.000 SC + 1500 CR</strong> - 449.00 руб / 278 TGs</li>
+    <li><strong>Shop Interiors Items</strong> - 169.00 руб / 105 TGs</li>
+  </ul>
+</details>
 
 <a href="https://t.me/m/SvEAzEGNYWUy" class="button2-link">🛍️ Купить у продавца</a>
 
