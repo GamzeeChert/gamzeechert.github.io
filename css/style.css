@@ -93,14 +93,22 @@ details[open] > summary::before {
   transform: rotate(90deg);
 }
 
-/* Основной стиль для li с эффектом печати */
+/* Основной стиль для li с эффектом печати - выключенная анимация */
 li.typing-effect {
   white-space: nowrap;           /* чтобы не переносить текст */
   overflow: hidden;              /* хайд текста за пределами ширины */
-  border-right: 2px solid #dfffdfff; /* курсор */
+  border-right: 2px solid transparent; /* курсор скрыт по умолчанию */
   font-family: monospace, monospace; /* шрифт, как в терминале */
   font-size: 16px;
+  width: 0;
+  transition: none;
+}
+
+/* Класс для запуска анимации */
+li.typing-effect.active {
   animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+  width: 100%;
+  border-right-color: #dfffdfff; /* курсор видим */
 }
 
 /* Анимация появления текста */
