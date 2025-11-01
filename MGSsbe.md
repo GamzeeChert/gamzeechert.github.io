@@ -28,9 +28,9 @@ title: 🛍️ Madness Games Store - SandBox Experimental
    - **Jetpack + 2 cars + AdBlock + 600.000 SC + 1500 CR** - 599.00 руб / 368 TGs
 
 <details>
-  <summary>Валюта</summary>
+  <summary style="padding-left: 15px;">Валюта</summary>
   <details>
-    <summary>Монеты</summary>
+    <summary style="padding-left: 20px;">Монеты</summary>
     <ul>
       <li><strong>90.000 SC</strong> - 65.00 руб / 41 TGs</li>
       <li><strong>200.000 SC</strong> - 129.00 руб / 80 TGs</li>
@@ -39,7 +39,7 @@ title: 🛍️ Madness Games Store - SandBox Experimental
     </ul>
   </details>
   <details>
-    <summary>Кристаллы</summary>
+    <summary style="padding-left: 15px;">Кристаллы</summary>
     <ul>
       <li><strong>100 CR</strong> - 65.00 руб / 41 TGs</li>
       <li><strong>300 CR</strong> - 129.00 руб / 80 TGs</li>
@@ -50,7 +50,7 @@ title: 🛍️ Madness Games Store - SandBox Experimental
 </details>
 
 <details>
-  <summary>Паки</summary>
+  <summary style="padding-left: 15px;">Паки</summary>
   <ul>
     <li><strong>Jetpack + 2 cars + AdBlock + 600.000 SC + 1500 CR</strong> - 599.00 руб / 368 TGs</li>
   </ul>
