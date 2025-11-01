@@ -92,3 +92,33 @@ details > summary::before {
 details[open] > summary::before {
   transform: rotate(90deg);
 }
+
+/* Основной стиль для li с эффектом печати */
+li.typing-effect {
+  white-space: nowrap;           /* чтобы не переносить текст */
+  overflow: hidden;              /* хайд текста за пределами ширины */
+  border-right: 2px solid #dfffdfff; /* курсор */
+  font-family: monospace, monospace; /* шрифт, как в терминале */
+  font-size: 16px;
+  animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+/* Анимация появления текста */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* Анимация мигающего курсора */
+@keyframes blink-caret {
+  0%, 100% {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #dfffdfff;
+  }
+}
