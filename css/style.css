@@ -1,9 +1,12 @@
 header {
-  background: url("../assets/images/1UpBackground.jpg") no-repeat ;
+  background: url("../assets/images/1UpBackground.jpg") no-repeat center top;
+  background-size: contain;
   width: 100%;
-  border-bottom: 1px dashed #b5e853; //header;
+  max-width: 1200px;
+  margin: 0 auto 40px auto;
+  border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
-  margin: 0 0 40px 0;
+  box-sizing: border-box;
 }
 
 body {
