@@ -16,9 +16,9 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
 ## Доступные товары
 
 <details>
-<summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Валюта</summary>
+<summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Валюта</summary>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Монеты</summary>
   <ul>
     <li><strong>10.000 SC</strong> - 99.00 руб / 62 TGs</li>
     <li><strong>46.000 SC</strong> - 349.00 руб / 214 TGs</li>
@@ -29,7 +29,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
   </ul>
 </details>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Кристаллы</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Кристаллы</summary>
   <ul>
     <li><strong>125 CR</strong> - 85.00 руб / 53 TGs</li>
     <li><strong>575 CR</strong> - 349.00 руб / 214 TGs</li>
@@ -42,7 +42,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 3
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Паки</summary>
   <ul>
     <li><strong>British Pack</strong> - 299.00 руб / 184 TGs</li>
     <li><strong>1942 German</strong> - 299.00 руб / 184 TGs</li>
