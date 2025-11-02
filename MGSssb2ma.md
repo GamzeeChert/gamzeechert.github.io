@@ -16,9 +16,9 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
 ## Доступные товары
 
 <details>
-<summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Валюта</summary>
+<summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Валюта</summary>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Монеты</summary>
   <ul>
     <li><strong>80.000 SC</strong> - 75.00 руб / 47 TGs</li>
     <li><strong>180.000 SC</strong> - 159.00 руб / 99 TGs</li>
@@ -29,7 +29,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
   </ul>
 </details>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Кристаллы</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Кристаллы</summary>
   <ul>
     <li><strong>80 CR</strong> - 75.00 руб / 47 TGs</li>
     <li><strong>180 CR</strong> - 159.00 руб / 99 TGs</li>
@@ -42,7 +42,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Паки</summary>
   <ul>
     <li><strong>Fantasy Pack (Items)</strong> - 599.00 руб / 368 TGs</li>
     <li><strong>Castle Orc</strong> - 75.00 руб / 47 TGs</li>
@@ -52,7 +52,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Скины на персонажа</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Скины на персонажа</summary>
   <ul>
     <li><strong>Halloween #1</strong> - 99.99 руб / 62 TGs</li>
     <li><strong>Halloween #2</strong> - 94.99 руб / 59 TGs</li>
