@@ -2,7 +2,7 @@
 title: 🔗 Ссылки
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
 
