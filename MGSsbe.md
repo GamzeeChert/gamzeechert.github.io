@@ -2,7 +2,7 @@
 title: 🛍️ Madness Games Store - SandBox Experimental
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 # SandBox Experimental
 
