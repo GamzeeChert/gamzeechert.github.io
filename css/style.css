@@ -1,4 +1,4 @@
-header {
+/* header {
   background: url("../assets/images/1UpBackground.jpg") no-repeat center top;
   background-size: contain;
   width: 100%;
@@ -39,7 +39,11 @@ header h2 {
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
-}
+} */
+
+
+
+
 
 body {
   margin: 0;
