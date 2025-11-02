@@ -71,7 +71,7 @@ details > summary::marker {
 }
 
 details > summary::before {
-  content: "×";
+  content: "+";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
@@ -79,5 +79,5 @@ details > summary::before {
 }
 
 details[open] > summary::before {
-  transform: rotate(45deg);
+  transform: rotate(225deg);
 }
