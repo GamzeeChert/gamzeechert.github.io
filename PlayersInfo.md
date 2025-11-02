@@ -2,7 +2,7 @@
 title: 👤 Персонажи
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 # Список с информацией о персонажах Simple SandBox 2.
 
