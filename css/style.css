@@ -44,7 +44,7 @@ details {
 }
 
 details[open] {
-  max-height: 1500px;
+  max-height: 3000px;
 }
 
 details > summary {
