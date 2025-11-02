@@ -1,7 +1,9 @@
 ---
 title: 📜 Telegram Rules - Раздел для модераторов и стажёров
 ---
-<link rel="stylesheet" href="css/style.css">
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const correctPassword = "532917";
