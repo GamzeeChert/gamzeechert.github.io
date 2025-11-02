@@ -1,3 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: $body-background url("../assets/images/1MainBackground.png") 0 0;
+  color: $body-foreground;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+}
+
+ul li {
+  list-style-image:url('../assets/images/ulli.png');
+}
+
 .button-link,
 .button2-link {
     display: inline-block;
