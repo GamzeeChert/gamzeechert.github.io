@@ -11,8 +11,98 @@ title: 🎮 Game Rules
 
 - - - - -
 
-1. **Не используйте программы для взлома/читы.**
-##### Запрещено применять любые сторонние программы, скрипты или читы, дающие несправедливое преимущество.
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">1. Не используйте программы для взлома/читы.</summary>
+    <ul>
+      <li><strong>Запрещено применять любые сторонние программы, скрипты или читы, дающие несправедливое преимущество.</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">ТЕКСТ</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+<details>
+    <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">13. Не мешайте игровому процессу другим игрокам.</summary>
+    <ul>
+      <li><strong>ТЕКСТ</strong></li>
+    </ul>
+  </details>
+
+
 
 2. **Не используйте баги и глитчи в своих целях.**
 ##### Эксплуатация неисправностей игры для получения выгоды запрещена.
@@ -47,7 +137,7 @@ title: 🎮 Game Rules
 12. **Не распространяйте личную информацию пользователей.**
 ##### Запрещено нарушение конфиденциальности пользователей и распространение их личной информации, в том числе номеров телефонов, паспортных данных, адресов проживания и тому подобное.
 
-13. **Не мешайте игровому процессу другим игрокам.**
+13. ****
 ##### Не создавайте помехи, препятствующие нормальной игре и удовольствию других игроков.
 
 - - - - -
