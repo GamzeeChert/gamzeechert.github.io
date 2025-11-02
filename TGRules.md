@@ -2,7 +2,7 @@
 title: 📜 Telegram Rules - Раздел с правилами
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 # 📃 Правила для чатов Telegram
 
