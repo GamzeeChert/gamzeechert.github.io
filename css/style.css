@@ -1,15 +1,16 @@
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../assets/images/bkg.png") 0 0;
-  color: $body-foreground;
+  background: url("../assets/images/bkg.png") no-repeat center center fixed;
+  background-size: cover;
+  color: #eaeaea‎;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 ul li {
-  list-style-image:url('../assets/images/ulli.png');
+  list-style-image: url('../assets/images/ulli.png');
 }
 
 .button-link,
