@@ -44,7 +44,7 @@ details {
 }
 
 details[open] {
-  max-height: 1500px;
+  max-height: 700px;
 }
 
 details > summary {
@@ -71,7 +71,7 @@ details > summary::marker {
 }
 
 details > summary::before {
-  content: "#";
+  content: "+";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
