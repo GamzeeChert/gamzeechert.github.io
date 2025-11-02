@@ -29,7 +29,7 @@ title: 📚 Game  Guide
     <li>2. Максимально подробно опишите баг;</li>
     <li>3. Добавьте к описанию хэштег #bugs.</li>
   </ul>
-  <p>Отправить баг можно в [Simple SandBox - Community](https://t.me/SimpleSandBoxCommunity).</p>
+  <p>Отправить баг можно в <a href="https://t.me/SimpleSandBoxCommunity">Simple SandBox - Community</a></p>
 </details>
 
 - - - - -
