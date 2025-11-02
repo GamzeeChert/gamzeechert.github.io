@@ -50,7 +50,8 @@ body {
   padding: 0;
   background: url("../assets/images/bkg1.png") no-repeat center center fixed;
 background-size: cover;
-  color: black;
+background-color: black;
+  color: #eaeaea;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
