@@ -71,7 +71,7 @@ details > summary::marker {
 }
 
 details > summary::before {
-  content: "+";
+  content: "×";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
