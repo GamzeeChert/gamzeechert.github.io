@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url("../assets/images/2MainBackground.png") no-repeat center center fixed;
+  background: url("../assets/images/bkg.png") no-repeat center center fixed;
 background-size: cover;
   color: #eaeaea;
   font-size: 16px;
