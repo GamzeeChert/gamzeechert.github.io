@@ -4,37 +4,29 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
-<script>
+  <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const correctPassword = "532917";
-  let tries = 0;
-
-  // Скрываем контент изначально
-  const content = document.getElementById("content");
-  const message = document.getElementById("message");
-  content.style.display = "none";
-  message.innerHTML = "";
-
-  function requestPassword() {
-    let pwd = prompt("Введите пароль для доступа к странице:");
-    if (pwd === correctPassword) {
-      content.style.display = "block";
-      message.innerHTML = "";
-    } else {
-      tries++;
-      if (tries < 3) {
-        alert("Неверный пароль, попробуйте снова.");
-        requestPassword();
-      } else {
-        alert("Доступ запрещен.");
-        content.style.display = "none";
-        message.innerHTML = '<h2>Доступ запрещён</h2><img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank">';
+      const correctPassword = "532917";
+      let tries = 0;
+      function requestPassword() {
+        let pwd = prompt("Введите пароль для доступа к странице:");
+        if (pwd === correctPassword) {
+          document.getElementById("content").style.display = "block";
+        } else {
+          tries++;
+          if (tries < 3) {
+            alert("Неверный пароль, попробуйте снова.");
+            requestPassword();
+          } else {
+            alert("Доступ запрещен.");
+            document.body.innerHTML = "<h2>Доступ запрещен</h2>";
+            document.body.innerHTML = "<h2>Доступ запрещен</h2>";
+          }
+        }
       }
-    }
-  }
-  requestPassword();
-});
-</script>
+      requestPassword();
+    });
+  </script>
 
 # 📝 Правила и шаблоны наказаний для чатов Telegram
 ## ⚜️ Раздел с информацией для модераторов и стажёров.
