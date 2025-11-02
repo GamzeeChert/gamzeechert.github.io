@@ -2,7 +2,7 @@
 title: 🛍️ Madness Games Store - Simple SandBox Classic
 ---
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 # Simple SandBox Classic
 
