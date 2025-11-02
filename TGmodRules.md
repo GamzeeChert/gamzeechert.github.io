@@ -19,7 +19,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
         requestPassword();
       } else {
         alert("Доступ запрещен.");
-        document.body.innerHTML = '<h2>Доступ запрещён</h2><img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank">';
+        document.getElementById("message").innerHTML = '<h2>Доступ запрещён</h2><img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank">';
       }
     }
   }
