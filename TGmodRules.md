@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", function () {
             requestPassword();
           } else {
             alert("Доступ запрещен.");
-            document.body.innerHTML = "<h2>Доступ запрещён</h2>";
-            document.body.innerHTML = "<h2>Доступ запрещен.</h2>";
+            document.body.innerHTML = "<h2>Доступ запрещён.</h2>";
+            document.body.innerHTML = "<h2>Доступ запрещён.</h2>";
           }
         }
       }
