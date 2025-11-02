@@ -15,13 +15,15 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
           tries++;
           if (tries < 3) {
-            alert("Неверный пароль, попробуйте снова.");
-            requestPassword();
-          } else {
-            alert("Доступ запрещен.");
-            document.body.innerHTML = "<h2>Доступ запрещён.</h2>";
-            document.body.innerHTML = "<h2>Доступ запрещён.</h2>";
-          }
+  alert("Неверный пароль, попробуйте снова.");
+  requestPassword();
+} else {
+  alert("Доступ запрещен.");
+  document.body.innerHTML = `
+    <h2>Доступ запрещён.</h2>
+    <img src="img/access_denied.gif" alt="Access Denied" style="max-width:300px; margin-top:20px;">
+  `;
+}
         }
       }
       requestPassword();
