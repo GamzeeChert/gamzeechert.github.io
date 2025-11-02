@@ -18,9 +18,9 @@ document.addEventListener("DOMContentLoaded", function () {
   alert("Неверный пароль, попробуйте снова.");
   requestPassword();
 } else {
-  alert("Доступ запрещен.");
+  alert("Доступ запрещён");
   document.body.innerHTML = `
-    <h2>Доступ запрещён.</h2>
+    <h2>Доступ запрещён</h2>
     <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank" style="max-width:300px; margin-top:20px;">
   `;
 }
