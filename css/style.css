@@ -40,11 +40,11 @@
 details {
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
-  max-height: 2.5em;
+  max-height: 7.5em;
 }
 
 details[open] {
-  max-height: 500px;
+  max-height: 1500px;
 }
 
 details > summary {
@@ -79,5 +79,5 @@ details > summary::before {
 }
 
 details[open] > summary::before {
-  transform: rotate(40deg);
+  transform: rotate(225deg);
 }
