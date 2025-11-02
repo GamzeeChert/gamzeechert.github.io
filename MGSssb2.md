@@ -16,9 +16,9 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 ## Доступные товары
 
 <details>
-<summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Валюта</summary>
+<summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Валюта</summary>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Монеты</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Монеты</summary>
   <ul>
     <li><strong>80.000 SC</strong> - 99.00 руб / 62 TGs</li>
     <li><strong>180.000 SC</strong> - 200.00 руб / 123 TGs</li>
@@ -28,7 +28,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
   </ul>
 </details>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Кристаллы</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Кристаллы</summary>
   <ul>
     <li><strong>80 CR</strong> - 99.00 руб / 62 TGs</li>
     <li><strong>180 CR</strong> - 200.00 руб / 123 TGs</li>
@@ -38,7 +38,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
   </ul>
 </details>
 <details>
-  <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Ключи</summary>
+  <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Ключи</summary>
   <ul>
     <li><strong>255 Keys</strong> - 139.00 руб / 86 TGs</li>
     <li><strong>650 Keys</strong> - 300.00 руб / 184 TGs</li>
@@ -48,16 +48,16 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Паки</summary>
   <details>
-<summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Apocalypse Bundle</summary>
+<summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Apocalypse Bundle</summary>
   <ul>
     <li><strong>Apocalypse Pack</strong> - 900.00 руб / 550 TGs</li>
     <li><strong>Apocalypse Interiors Pack</strong> - 250.00 руб / 154 TGs</li>
   </ul>
 </details>
 <details>
-<summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">Wasteland Bundle</summary>
+<summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Wasteland Bundle</summary>
   <ul>
     <li><strong>Apocalypse Wasteland (All Pack)</strong> - 1125.00 руб / 688 TGs</li>
     <li><strong>Apocalypse Wasteland (Props)</strong> - 799.00 руб / 489 TGs</li>
@@ -79,7 +79,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Паки армий стран</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Паки армий стран</summary>
   <ul>
     <li>🇬🇧 <strong>Армия Британии</strong> - 350.00 руб / 215 TGs</li>
     <li>🇩🇪 <strong>Армия Германии</strong> - 599.00 руб / 368 TGs</li>
@@ -91,7 +91,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Скины на персонажа</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Скины на персонажа</summary>
   <ul>
     <li><strong>Halloween Skin #1</strong> - 200.00 руб / 123 TGs</li>
     <li><strong>Halloween Skin #2</strong> - 200.00 руб / 123 TGs</li>
@@ -102,7 +102,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Оружие</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Оружие</summary>
   <ul>
     <li><strong>Skins REKT</strong> - 159.00 руб / 99 TGs</li>
     <li><strong>Water REKT</strong> - 189.00 руб / 117 TGs</li>
@@ -112,7 +112,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Транспорт</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Транспорт</summary>
   <ul>
     <li><strong>Vehicle Pack</strong> - 200.00 руб / 123 TGs</li>
     <li><strong>Air Pack</strong> - 299.00 руб / 184 TGs</li>
@@ -126,7 +126,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Прочее</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Прочее</summary>
   <ul>
     <li>🎫 <span style="color: red;"><strong>Бесконечная VIP-подписка</strong></span> - <del>1899.00</del> 1234.35 руб / <del>1160</del> 754 TGs</li>
     <li><strong>AdsBlock + 350 CR</strong> - 300.00 руб / 184 TGs</li>
