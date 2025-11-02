@@ -40,11 +40,11 @@
 details {
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
-  max-height: 7.5em;
+  max-height: 10.5em;
 }
 
 details[open] {
-  max-height: 3000px;
+  max-height: 5000px;
 }
 
 details > summary {
@@ -71,7 +71,7 @@ details > summary::marker {
 }
 
 details > summary::before {
-  content: "|";
+  content: "+";
   display: inline-block;
   margin-right: 6px;
   transform-origin: center;
