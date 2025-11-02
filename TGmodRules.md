@@ -252,6 +252,8 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
   </ul>
 </details>
 
+- - - - -
+
 <details>
   <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Пояснение ролей</summary>
   <ul>
