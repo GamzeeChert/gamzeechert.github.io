@@ -128,7 +128,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
   <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">👥 Роли Персонала:</summary>
   <ul>
 <details>
-    <li>👑 <strong>Основатель</strong>
+<summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">👑 <strong>Основатель</strong></summary>
       <ul>
         <li>Отображается первым в списке Персонала;</li>
         <li>Управляет всеми пользователями.</li>
