@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
   alert("Доступ запрещен.");
   document.body.innerHTML = `
     <h2>Доступ запрещён.</h2>
-    <img src="img/access_denied.gif" alt="Access Denied" style="max-width:300px; margin-top:20px;">
+    <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/Ash.gif" alt="Ash" style="max-width:300px; margin-top:20px;">
   `;
 }
         }
