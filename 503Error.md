@@ -10,7 +10,7 @@ title: 🚧 Временно недоступно
 
 - - - - -
 
-<img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/Ash.gif" alt="Ash">
+<img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank">
 
 - - - - -
 
