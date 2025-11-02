@@ -82,17 +82,17 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 - - - - - 
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">👥 Роли Персонала:</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">👥 Роли Персонала:</summary>
   <ul>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">👑 <strong>Основатель</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF font-size: 20px;">👑 <strong>Основатель</strong></summary>
       <ul>
         <li>Отображается первым в списке Персонала;</li>
         <li>Управляет всеми пользователями.</li>
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">⚜ <strong>Соучредитель</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF font-size: 20px;">⚜ <strong>Соучредитель</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Управляет модераторами, помощниками, свободными пользователями и может их заблокировать;</li>
@@ -100,7 +100,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">👮🏻‍♂️ <strong>Админ</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF font-size: 20px;">👮🏻‍♂️ <strong>Админ</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Может модерировать пользователей (через Telegram или с помощью команд таких как /ban);</li>
@@ -108,7 +108,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">👷🏻 <strong>Модератор</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">👷🏻 <strong>Модератор</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Может использовать все команды модерации (ban, kick, unban, info, infopvt, mute, unmute);</li>
@@ -117,7 +117,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">🛃 <strong>Очиститель</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">🛃 <strong>Очиститель</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Может удалять сообщения с помощью /del или /logdel;</li>
@@ -126,7 +126,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">🙊 <strong>Ограничитель (Модератор на стажировке)</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">🙊 <strong>Ограничитель (Модератор на стажировке)</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Может накладывать и снимать ограничения с пользователей;</li>
@@ -135,7 +135,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">⛑ <strong>Помощник</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">⛑ <strong>Помощник</strong></summary>
       <ul>
         <li>Отображается в списке Персонала;</li>
         <li>Не имеет дополнительных прав управления пользователями;</li>
@@ -143,7 +143,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
       </ul>
     </details>
     <details>
-      <summary style="padding-left: 30px; color: #9cc648; font-size: 20px;">🔓 <strong>Свободный</strong></summary>
+      <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">🔓 <strong>Свободный</strong></summary>
       <ul>
         <li>Бот будет игнорировать его флуд, спам.</li>
       </ul>
@@ -156,7 +156,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 ## 🤖 Команды бота:
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Основные команды</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Основные команды</summary>
   <ul>
     <li><strong>help</strong> - (👥) Основные команды бота;</li>
     <li><strong>staff, elencoruoli</strong> - (❓|👥) Отобразить Персонал группы;</li>
@@ -177,14 +177,14 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Команды управления пользователем</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Команды управления пользователем</summary>
   <ul>
     <li><strong>kick</strong> - (👑⚜👮🏻‍♂️👷🏻) Выгнать пользователя;</li>
     <li><strong>delkick</strong> - (👑⚜👮🏻‍♂️👷🏻🛃) Выгнать пользователя и удалить его сообщение;</li>
   </ul>
 
   <details>
-    <summary style="padding-left: 15px; color: #9cc648; font-size: 20px;">Блокировка/разблокировка</summary>
+    <summary style="padding-left: 15px; color: #AA97FF; font-size: 20px;">Блокировка/разблокировка</summary>
     <ul>
       <li><strong>ban</strong> - (👑⚜👮🏻‍♂️👷🏻) Заблокировать пользователя;</li>
       <li><strong>unban</strong> - (👑⚜👮🏻‍♂️👷🏻) Разблокировать пользователя;</li>
@@ -193,7 +193,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
   </details>
 
   <details>
-    <summary style="padding-left: 15px; color: #9cc648; font-size: 20px;">Выдача/снятие предупреждений</summary>
+    <summary style="padding-left: 15px; color: #AA97FF; font-size: 20px;">Выдача/снятие предупреждений</summary>
     <ul>
       <li><strong>warn</strong> - (👑⚜👮🏻‍♂️👷🏻) Предупредить пользователя;</li>
       <li><strong>unwarn</strong> - (👑⚜👮🏻‍♂️👷🏻) Снять предупреждение с пользователя;</li>
@@ -203,7 +203,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
   </details>
 
   <details>
-    <summary style="padding-left: 15px; color: #9cc648; font-size: 20px;">Выдача/снятие мьютов</summary>
+    <summary style="padding-left: 15px; color: #AA97FF; font-size: 20px;">Выдача/снятие мьютов</summary>
     <ul>
       <li><strong>mute</strong> - (👑⚜👮🏻‍♂️👷🏻🙊) Замьютить пользователя;</li>
       <li><strong>unmute</strong> - (👑⚜👮🏻‍♂️👷🏻🙊) Размьютить пользователя;</li>
@@ -213,13 +213,13 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Команды управления несколькими пользователями</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Команды управления несколькими пользователями</summary>
   <ul>
     <li><strong>multikick, mkick</strong> - (👑⚜👮🏻‍♂️👷🏻) Выгнать нескольких пользователей;</li>
   </ul>
 
   <details>
-    <summary style="padding-left: 15px; color: #9cc648; font-size: 20px;">Блокировка/разблокировка</summary>
+    <summary style="padding-left: 15px; color: #AA97FF; font-size: 20px;">Блокировка/разблокировка</summary>
     <ul>
       <li><strong>multiban, mban</strong> - (👑⚜👮🏻‍♂️👷🏻) Заблокировать нескольких пользователей;</li>
       <li><strong>multiunban, munban</strong> - (👑⚜👮🏻‍♂️👷🏻) Разбанить нескольких пользователей;</li>
@@ -227,7 +227,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
   </details>
 
   <details>
-    <summary style="padding-left: 15px; color: #9cc648; font-size: 20px;">Выдача/снятие мьютов</summary>
+    <summary style="padding-left: 15px; color: #AA97FF; font-size: 20px;">Выдача/снятие мьютов</summary>
     <ul>
       <li><strong>multimute, mmute</strong> - (👑⚜👮🏻‍♂️👷🏻) Замьютить нескольких пользователей;</li>
       <li><strong>multiunmute, munmute</strong> - (👑⚜👮🏻‍♂️👷🏻) Размьютить нескольких пользователей;</li>
@@ -236,7 +236,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Команды управления группой</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Команды управления группой</summary>
   <ul>
     <li><strong>settings, config, pvtconfig</strong> - (👑⚜👮🏻‍♂️) Меню настроек группы;</li>
     <li><strong>backup</strong> - (👑) Получить резервную копию настроек в виде QR-кода;</li>
@@ -257,7 +257,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 - - - - -
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Пояснение ролей</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Пояснение ролей</summary>
   <ul>
     <li>👑 - Команды, доступные основателю;</li>
     <li>⚜ - Команды, доступные соучредителю;</li>
@@ -271,7 +271,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 </details>
 
 <details>
-  <summary style="padding-left: 10px; color: #b5e853; font-size: 25px;">Обозначения времени</summary>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Обозначения времени</summary>
   <ul>
     <li>s или seconds - Секунды;</li>
     <li>m или minutes - Минуты;</li>
