@@ -129,7 +129,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 <details>
   <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Прочее</summary>
   <ul>
-    <li>🎫 <span style="color: red;"><strong>Бесконечная VIP-подписка</strong></span> - <del>1899.00</del> 1234.35 руб / <del>1160</del> 754 TGs</li>
+    <li><strong>Бесконечная VIP-подписка</strong> - 1899.00 руб / 1160 TGs</li>
     <li><strong>AdsBlock + 350 CR</strong> - 300.00 руб / 184 TGs</li>
     <li><strong>Robot Pack</strong> - 149.00 руб / 92 TGs</li>
     <li><strong>Pet Patron</strong> - 397.00 руб / 244 TGs</li>
@@ -144,3 +144,5 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
 `Список товаров обновлён 03.11.2025`
 
 <!-- ⏳ Временно недоступно -->
+
+<!-- <li>🎫 <span style="color: red;"><strong>НАЗВАНИЕ ТОВАРА</strong></span> - <del>СТАРАЯ ЦЕНА</del> НОВАЯ ЦЕНА руб / <del>СТАРАЯ ЦЕНА</del> НОВАЯ ЦЕНА TGs</li> -->
