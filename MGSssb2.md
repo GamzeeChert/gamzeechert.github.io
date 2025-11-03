@@ -70,6 +70,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2
     <li><strong>Cyber Ninja Pack</strong> - 1000.00 руб / 611 TGs</li>
     <li><strong>Starter Pack</strong> - 350.00 руб / 215 TGs</li>
     <li><strong>Arctic Ops Bundle</strong> - 349.00 руб / 214 TGs</li>
+    <li><strong>Chicken Pack</strong> - 299.00 руб / 184 TGs</li>
     <li><strong>Elite Bundle</strong> - 399.00 руб / 245 TGs</li>
     <li><strong>WW2 Pack</strong> - 800.00 руб / 489 TGs</li>
     <li><strong>Хоккейная банда</strong> - 450.00 руб / 276 TGs</li>
