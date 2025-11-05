@@ -141,7 +141,7 @@ details[open] > summary::before {
   transform: rotate(225deg);
 }
 
-."video-container {
+.video-container {
       display: flex;
       justify-content: center;
       align-items: center;
