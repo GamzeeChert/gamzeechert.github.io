@@ -15,7 +15,7 @@ title: 🤖 Bot Info
 
 <video autoplay muted loop playsinline
        style="border-radius:50%; width:200px; height:200px; object-fit:cover; display:block; margin: 0 auto;">
-  <source src="/assets/video/BotVid.mp4" type="video/mp4">
+  <source src="/assets/video/BotInfoVideo.mp4" type="video/mp4">
   Ваш браузер не поддерживает тег video.
 </video>
 
