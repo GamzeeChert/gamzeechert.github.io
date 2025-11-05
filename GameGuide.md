@@ -4,6 +4,27 @@ title: 📚 Game  Guide
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Получаем хеш из адресной строки без #
+    var hash = window.location.hash.substring(1);
+    if (hash) {
+      // Ищем элемент с таким id
+      var el = document.getElementById(hash);
+      if (el) {
+        // Проверяем, есть ли родитель <details>
+        var details = el.closest("details");
+        if (details) {
+          // Открываем details
+          details.open = true;
+        }
+        // Прокручиваем страницу к элементу
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+  });
+</script>
+
 # ℹ️ Игровое руководство
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
@@ -12,7 +33,8 @@ title: 📚 Game  Guide
 - - - - -
 
 <details>
-  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">🐛 Игровые баги</summary>
+  <summary id="bugs"
+style="padding-left: 10px; color: #75D2F2; font-size: 25px;">🐛 Игровые баги</summary>
   <p>Если вы наткнулись на <b>баг в игре</b>, вы можете сообщить о нём. Информация будет передана разработчикам.</p>
   <ul>
     <li>1. Снимите баг на видео или сделайте скриншот;</li>
