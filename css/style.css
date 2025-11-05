@@ -142,11 +142,16 @@ details[open] > summary::before {
 }
 
 .video-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-    }
+width: 100px;
+height: 100px;
+margin: 0 auto;
+padding: 0;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+}
 
     #site-video {
       width: 50px;
