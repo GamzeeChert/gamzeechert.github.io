@@ -153,4 +153,9 @@ details[open] > summary::before {
       height: 50px;
       border-radius: 50%;
       object-fit: cover;
+      overflow: hidden;
+      display: block;
+      margin: 0 auto;
+      padding: 0;
+      border: none;
     }
