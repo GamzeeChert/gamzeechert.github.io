@@ -7,21 +7,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 
-    {% seo %}
+{% seo %}
   </head>
 
   <body>
 
     <header>
-      <div class="container" style="display: flex; align-items: center;">
-        <video autoplay muted loop playsinline id="site-header-video" style="width: 40px; height: auto; margin-right: 10px;">
-          <source src="{{ '../assets/SiteHeaderVideo.mp4' | relative_url }}" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+      <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+       <!-- <section id="downloads">
+          {% if site.show_downloads %}
+            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
+            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
+          {% endif %}
+        </section> -->
       </div>
     </header>
 
