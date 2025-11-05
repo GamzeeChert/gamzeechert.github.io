@@ -41,10 +41,6 @@ header h2 {
                0 0 10px rgba(181, 232, 83, 0.1);
 } */
 
-
-
-
-
 body {
   margin: 0;
   padding: 0;
@@ -144,3 +140,17 @@ details > summary::before {
 details[open] > summary::before {
   transform: rotate(225deg);
 }
+
+.fullscreen-center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    #site-video {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      overflow: hidden;
+    }
