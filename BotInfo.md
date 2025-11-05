@@ -13,13 +13,11 @@ title: 🤖 Bot Info
 
 - - - - -
 
-<div style="display:flex; justify-content:center; align-items:center; height:100vh;">
-  <video autoplay muted loop playsinline 
-style="border-radius:50%; width:150px; height:150px; object-fit:cover; display:block;">
-      <source src="/assets/video/BotVid.mp4" type="video/mp4">
-      Ваш браузер не поддерживает тег video.
-    </video>
-</div>
+<video autoplay muted loop playsinline
+       style="border-radius:50%; width:200px; height:200px; object-fit:cover; display:block; margin: 0 auto;">
+  <source src="/assets/video/BotVid.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
 
 - - - - -
 
