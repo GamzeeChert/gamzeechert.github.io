@@ -6,19 +6,14 @@ title: 📚 Game  Guide
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // Получаем хеш из адресной строки без #
     var hash = window.location.hash.substring(1);
     if (hash) {
-      // Ищем элемент с таким id
       var el = document.getElementById(hash);
       if (el) {
-        // Проверяем, есть ли родитель <details>
         var details = el.closest("details");
         if (details) {
-          // Открываем details
           details.open = true;
         }
-        // Прокручиваем страницу к элементу
         el.scrollIntoView({ behavior: "smooth", block: "start" });
       }
     }
