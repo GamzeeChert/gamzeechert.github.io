@@ -13,7 +13,7 @@ title: 🤖 Bot Info
 
 - - - - -
 
-<video id="botinfo-video" width="50" height="50" autoplay muted loop playsinline style="border-radius: 50%; overflow: hidden; margin-right: 10px;">
+<video width="100" height="100" autoplay muted loop playsinline style="border-radius: 50%; overflow: hidden; margin-right: 10px;">
       <source src="{{ '../assets/videos/BotVid.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
