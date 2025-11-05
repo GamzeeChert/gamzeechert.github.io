@@ -13,6 +13,13 @@ title: 🤖 Bot Info
 
 - - - - -
 
+<video id="botinfo-video" width="50" height="50" autoplay muted loop playsinline style="border-radius: 50%; overflow: hidden; margin-right: 10px;">
+      <source src="{{ '../assets/videos/BotVid.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+- - - - -
+
 # [The Watching Eye](https://t.me/TheWatchingEyeBot)
 
 ## 👁️‍🗨️ Бот-модератор для групп.
