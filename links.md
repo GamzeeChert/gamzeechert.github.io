@@ -40,7 +40,7 @@ title: 🔗 Ссылки
     <ul>
       <li>
   <a href="https://www.youtube.com/@GamzeeChertanovskiy/">
-    <img src="_telegramrules/_icons/YouTube.png" alt="YouTube" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    <img src="../_telegramrules/_icons/YouTube.png" alt="YouTube" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
     G_C YouTube
   </a>
 </li>
