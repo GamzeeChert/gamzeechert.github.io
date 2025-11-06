@@ -4,31 +4,41 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
-  <script>
+<script>
 document.addEventListener("DOMContentLoaded", function () {
-      const correctPassword = "532917";
-      let tries = 0;
-      function requestPassword() {
-        let pwd = prompt("Введите пароль для доступа к странице:");
-        if (pwd === correctPassword) {
-          document.getElementById("content").style.display = "block";
-        } else {
-          tries++;
-          if (tries < 3) {
-  alert("Неверный пароль, попробуйте снова.");
-  requestPassword();
-} else {
-  alert("Доступ запрещён");
-  document.body.innerHTML = `
-    <h2>Доступ запрещён</h2>
-    <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank" style="max-width:300px; margin-top:20px;">
-  `;
-}
-        }
+  const correctPassword = "532917";
+  let tries = 0;
+
+  function requestPassword() {
+    let pwd = prompt("Введите пароль для доступа к странице:");
+
+    // Если пользователь нажал "Отмена" (pwd === null), прекращаем запрос пароля
+    if (pwd === null) {
+      // Можно скрыть содержимое страницы, если оно есть, или просто ничего не делать
+      document.getElementById("content").style.display = "none";
+      return; // выходим из функции и не вызываем рекурсивно снова
+    }
+
+    if (pwd === correctPassword) {
+      document.getElementById("content").style.display = "block";
+    } else {
+      tries++;
+      if (tries < 3) {
+        alert("Неверный пароль, попробуйте снова.");
+        requestPassword();
+      } else {
+        alert("Доступ запрещён");
+        document.body.innerHTML = `
+          <h2>Доступ запрещён</h2>
+          <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank" style="max-width:300px; margin-top:20px;">
+        `;
       }
-      requestPassword();
-    });
-  </script>
+    }
+  }
+
+  requestPassword();
+});
+</script>
 
 # 📝 Правила и шаблоны наказаний для чатов Telegram
 ## ⚜️ Раздел с информацией для модераторов и стажёров.
