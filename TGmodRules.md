@@ -6,7 +6,7 @@ title: 📜 Telegram Rules - Раздел для модераторов и ст�
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const correctPassword = "532917";
+  const correctPassword = "1218676";
   let tries = 0;
 
   function showAccessDenied() {
