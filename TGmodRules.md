@@ -18,9 +18,19 @@ document.addEventListener("DOMContentLoaded", function () {
     document.head.appendChild(link);
 
     document.body.innerHTML = `
-      <h2>Доступ запрещён</h2>
-      <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" alt="prank" style="max-width:300px; margin-top:20px;">
-    `;
+  <div style="
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  ">
+    <h2>Доступ запрещён</h2>
+    <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" 
+         alt="prank" style="max-width:300px; margin-top:20px;">
+  </div>
+`;
   }
 
   function requestPassword() {
