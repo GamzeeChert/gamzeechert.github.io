@@ -76,12 +76,25 @@ title: 🔗 Ссылки
 <details>
    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Страница разработчика</summary>
     <ul>
-      <li><a href="https://play.google.com/store/apps/dev?id=7129867871289421717">Google Store</a></li>
-      <li><a href="https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470">AppStore</a></li>
+      <li>
+  <a href="https://play.google.com/store/apps/dev?id=7129867871289421717">
+    <img src="assets/icons/GooglePlay.png" alt="Google Store" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    Google Store
+  </a>
+</li>
+<li>
+  <a href="https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470">
+    <img src="assets/icons/AppStore.png" alt="App Store" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    AppStore
+  </a>
+</li>
     </ul>
 </details>
 <details>
-   <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">ВКонтакте</summary>
+   <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">
+  <img src="assets/icons/VK.png" alt="ВКонтакте" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+  ВКонтакте
+</summary>
     <ul>
       <li><a href="https://vk.com/madnessgamesofficial">VK Madness Games</a></li>
       <li><a href="https://vk.com/testers_ssb2">VK Madness Games Support</a></li>
@@ -91,7 +104,10 @@ title: 🔗 Ссылки
     </ul>
 </details>
 <details>
-    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Steam</summary>
+    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">
+  <img src="assets/icons/Steam.png" alt="Steam" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+  Steam
+</summary>
     <ul>
           <li><a href="https://steamcommunity.com/groups/MadnessGamesGang">Steam Madness Games</a></li>
           <li><a href="https://steamcommunity.com/groups/SimpleSandBox2">Steam SSB²</a></li>
@@ -99,7 +115,10 @@ title: 🔗 Ссылки
     </ul>
 </details>
 <details>
-    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Discord</summary>
+    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">
+  <img src="assets/icons/Discord.png" alt="Discord" width="16" height="16" style="vertical-align: middle; margin-right: 8px;">
+  Discord
+</summary>
     <ul>
           <li><a href="https://discord.gg/simple-sandbox-official-server-570256469203877898">Discord SSB²</a></li>
           <li><a href="https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490">Discord SSB²:MA</a></li>
@@ -109,7 +128,7 @@ title: 🔗 Ссылки
     <ul>
       <li>
   <a href="https://x.com/MadnessGames016?s=09">
-    <img src="assets/icons/Twitter.png" alt="X/Twitter" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    <img src="assets/icons/X_Twitter.png" alt="X/Twitter" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
     𝕏/Twitter
   </a>
 </li>
@@ -127,7 +146,7 @@ title: 🔗 Ссылки
 </li>
 <li>
   <a href="https://tiktok.com/@madnessgamesofficial">
-    <img src="assets/icons/TikTok.png" alt="TikTok" width="16" height="16" style="vertical-align: middle; margin-right: 55px;">
+    <img src="assets/icons/TikTok.png" alt="TikTok" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
     TikTok
   </a>
 </li>
