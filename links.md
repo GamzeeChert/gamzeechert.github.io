@@ -33,33 +33,57 @@ title: 🔗 Ссылки
 
 - - - - -
 
-# 🔗 Ссылки на социальные сети
+<h1>🔗 Ссылки на социальные сети</h1>
 
-- 🎮 Madness Games:
-  - Developer Accounts:
-    - [Google Store](https://play.google.com/store/apps/dev?id=7129867871289421717)
-    - [AppStore](https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470)
-  - VK:
-    - [VK Madness Games](https://vk.com/madnessgamesofficial)
-    - [VK Madness Games Support](https://vk.com/testers_ssb2)
-    - [VK SSB² Community](https://vk.com/ssb2community)
-    - [VK SSB²:MA Community](https://vk.com/ssb2macommunity)
-    - [VK SSB³ Community](https://vk.com/simplesandbox3)
-  - Steam:
-    - [Steam Madness Games](https://steamcommunity.com/groups/MadnessGamesGang)
-    - [Steam SSB²](https://steamcommunity.com/groups/SimpleSandBox2)
-    - [Steam SSB³](https://steamcommunity.com/groups/SimpleSandBox3)
-  - Discord:
-    - [Discord SSB²](https://discord.gg/simple-sandbox-official-server-570256469203877898)
-    - [Discord SSB²:MA](https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490)
-    - [Discord SSB³](https://discord.gg/simple-sandbox-3-992814941256044584)
-  - [𝕏/Twitter](https://x.com/MadnessGames016?s=09)
-  - [Instagram](https://www.instagram.com/madness_games_dev/)
-  - [Facebook](https://www.facebook.com/MadnessGamesOfficial/)
-  - [TikTok](https://tiktok.com/@madnessgamesofficial)
-  - [YouTube Madness Games](https://www.youtube.com/@MadnessGamesOfficial)
+<details>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">👤 GamzeeChert</summary>
+    <ul>
+      <li><a href="https://www.youtube.com/@GamzeeChertanovskiy/">G_C YouTube</a></li>
+      <li><a href="https://www.instagram.com/gamzeechertanovskiy/">G_C Instagram</a></li>
+      <li><a href="https://discord.gg/gamzee-s-server-637368353937293332">G_C Discord</a></li>
+    </ul>
+</details>
 
-- 👤 Gamzee_Chert
-  - [G_C YouTube](https://www.youtube.com/@GamzeeChertanovskiy/)
-  - [G_C Instagram](https://www.instagram.com/gamzeechertanovskiy/)
-  - [G_C Discord](https://discord.gg/gamzee-s-server-637368353937293332)
+<details>
+  <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">🎮 Madness Games</summary>
+<details>
+   <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Страница разработчика</summary>
+    <ul>
+      <li><a href="https://play.google.com/store/apps/dev?id=7129867871289421717">Google Store</a></li>
+      <li><a href="https://apps.apple.com/ru/developer/ihor-pidhainyi/id1529595470">AppStore</a></li>
+    </ul>
+</details>
+<details>
+   <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">ВКонтакте</summary>
+    <ul>
+      <li><a href="https://vk.com/madnessgamesofficial">VK Madness Games</a></li>
+      <li><a href="https://vk.com/testers_ssb2">VK Madness Games Support</a></li>
+      <li><a href="https://vk.com/ssb2community">VK SSB² Community</a></li>
+          <li><a href="https://vk.com/ssb2macommunity">VK SSB²:MA Community</a></li>
+          <li><a href="https://vk.com/simplesandbox3">VK SSB³ Community</a></li>
+    </ul>
+</details>
+<details>
+    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Steam</summary>
+    <ul>
+          <li><a href="https://steamcommunity.com/groups/MadnessGamesGang">Steam Madness Games</a></li>
+          <li><a href="https://steamcommunity.com/groups/SimpleSandBox2">Steam SSB²</a></li>
+          <li><a href="https://steamcommunity.com/groups/SimpleSandBox3">Steam SSB³</a></li>
+    </ul>
+</details>
+<details>
+    <summary style="padding-left: 30px; color: #AA97FF; font-size: 20px;">Discord</summary>
+    <ul>
+          <li><a href="https://discord.gg/simple-sandbox-official-server-570256469203877898">Discord SSB²</a></li>
+          <li><a href="https://discord.gg/simple-sandbox-2-middle-ages-906196036807188490">Discord SSB²:MA</a></li>
+          <li><a href="https://discord.gg/simple-sandbox-3-992814941256044584">Discord SSB³</a></li>
+    </ul>
+</details>
+    <ul>
+      <li><a href="https://x.com/MadnessGames016?s=09">𝕏/Twitter</a></li>
+      <li><a href="https://www.instagram.com/madness_games_dev/">Instagram</a></li>
+      <li><a href="https://www.facebook.com/MadnessGamesOfficial/">Facebook</a></li>
+      <li><a href="https://tiktok.com/@madnessgamesofficial">TikTok</a></li>
+      <li><a href="https://www.youtube.com/@MadnessGamesOfficial">YouTube Madness Games</a></li>
+    </ul>
+</details>
