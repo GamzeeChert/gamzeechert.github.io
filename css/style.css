@@ -57,6 +57,10 @@ ul li {
   list-style-image: url('../assets/images/ulli.png');
 }
 
+a {
+  text-decoration: none;
+}
+
 .button-link,
 .button2-link {
     display: inline-block;
