@@ -87,10 +87,35 @@ title: 🔗 Ссылки
     </ul>
 </details>
     <ul>
-      <li><a href="https://x.com/MadnessGames016?s=09">𝕏/Twitter</a></li>
-      <li><a href="https://www.instagram.com/madness_games_dev/">Instagram</a></li>
-      <li><a href="https://www.facebook.com/MadnessGamesOfficial/">Facebook</a></li>
-      <li><a href="https://tiktok.com/@madnessgamesofficial">TikTok</a></li>
-      <li><a href="https://www.youtube.com/@MadnessGamesOfficial">YouTube Madness Games</a></li>
+      <li>
+  <a href="https://x.com/MadnessGames016?s=09">
+    <img src="assets/icons/Twitter.png" alt="X/Twitter" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    𝕏/Twitter
+  </a>
+</li>
+<li>
+  <a href="https://www.instagram.com/madness_games_dev/">
+    <img src="assets/icons/Instagram.png" alt="Instagram" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    Instagram
+  </a>
+</li>
+<li>
+  <a href="https://www.facebook.com/MadnessGamesOfficial/">
+    <img src="assets/icons/Facebook.png" alt="Facebook" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    Facebook
+  </a>
+</li>
+<li>
+  <a href="https://tiktok.com/@madnessgamesofficial">
+    <img src="assets/icons/TikTok.png" alt="TikTok" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    TikTok
+  </a>
+</li>
+<li>
+  <a href="https://www.youtube.com/@MadnessGamesOfficial">
+    <img src="assets/icons/YouTube.png" alt="YouTube" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    YouTube Madness Games
+  </a>
+</li>
     </ul>
 </details>
