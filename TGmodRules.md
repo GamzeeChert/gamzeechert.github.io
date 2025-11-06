@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Подключаем CSS
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'style.css'; // замените на путь к вашему CSS
+    link.href = 'css/style.css';
     document.head.appendChild(link);
 
     document.body.innerHTML = `
@@ -27,7 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
     let pwd = prompt("Введите пароль для доступа к странице:");
 
     if (pwd === null) {
-      // Пользователь нажал "Отмена" — показываем отказ
       showAccessDenied();
       return;
     }
