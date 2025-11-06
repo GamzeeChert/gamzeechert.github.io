@@ -44,10 +44,30 @@ title: 🔗 Ссылки
     G_C YouTube
   </a>
 </li>
-      <li><a href="https://m.twitch.tv/gamzee_chertanovskiy/home">G_C Twitch</a></li>
-      <li><a href="https://www.instagram.com/gamzeechertanovskiy/">G_C Instagram</a></li>
-      <li><a href="https://discord.gg/gamzee-s-server-637368353937293332">G_C Discord</a></li>
-      <li><a href="http://tiktok.com/@tim_v20">G_C TikTok</a></li>
+<li>
+  <a href="https://m.twitch.tv/gamzee_chertanovskiy/home">
+    <img src="assets/icons/Twitch.png" alt="Twitch" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    G_C Twitch
+  </a>
+</li>
+<li>
+  <a href="https://www.instagram.com/gamzeechertanovskiy/">
+    <img src="assets/icons/Instagram.png" alt="Instagram" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    G_C Instagram
+  </a>
+</li>
+<li>
+  <a href="https://discord.gg/gamzee-s-server-637368353937293332">
+    <img src="assets/icons/Discord.png" alt="Discord" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    G_C Discord
+  </a>
+</li>
+<li>
+  <a href="http://tiktok.com/@tim_v20">
+    <img src="assets/icons/TikTok.png" alt="TikTok" width="16" height="16" style="vertical-align: middle; margin-right: 5px;">
+    G_C TikTok
+  </a>
+</li>
     </ul>
 </details>
 
