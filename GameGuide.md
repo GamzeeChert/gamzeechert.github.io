@@ -209,8 +209,7 @@ title: 📚 Game  Guide
      <li>По умолчанию отключено.</li>
     </ul>
 </details>
-  </details>
-</details>
+
 - - - - -
 
 <h1 id="tag9">🚧 Игровая блокировка</h1>
