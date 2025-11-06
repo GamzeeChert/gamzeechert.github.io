@@ -39,8 +39,10 @@ title: 🔗 Ссылки
   <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">👤 GamzeeChert</summary>
     <ul>
       <li><a href="https://www.youtube.com/@GamzeeChertanovskiy/">G_C YouTube</a></li>
+      <li><a href="https://m.twitch.tv/gamzee_chertanovskiy/home">G_C Twitch</a></li>
       <li><a href="https://www.instagram.com/gamzeechertanovskiy/">G_C Instagram</a></li>
       <li><a href="https://discord.gg/gamzee-s-server-637368353937293332">G_C Discord</a></li>
+      <li><a href="http://tiktok.com/@tim_v20">G_C TikTok</a></li>
     </ul>
 </details>
 
