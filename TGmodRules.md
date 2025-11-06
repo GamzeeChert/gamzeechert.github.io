@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <h2>Доступ запрещён</h2>
     <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/assets/images/prank.gif" 
          alt="prank" style="max-width:300px; margin-top:20px;">
+<a href="./index.html" class="button-link">🌐 Главная страница</a>
   </div>
 `;
   }
