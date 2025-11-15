@@ -13,7 +13,6 @@ title: 💎 Fragment - Аукцион
 
 ## 🛒 Доступные аукционы
 
-
 | Аукцион | Начальная ставка |
 |:--------|:-----------------|
 | 👾 [@cursed_vega](https://fragment.com/username/cursed_vega) | <span style="color: lime;">10 TON</span> |
