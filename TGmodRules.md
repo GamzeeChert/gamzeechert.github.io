@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+---
+📜 Telegram Rules - Раздел для модераторов и стажёров
+---
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📜 Telegram Rules - Раздел для модераторов и стажёров</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -326,4 +328,3 @@
         </details>
     </div>
 </body>
-</html>
