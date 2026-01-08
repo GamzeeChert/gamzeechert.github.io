@@ -32,7 +32,6 @@ title: 💎 Fragment - Аукцион
 | 🇩🇪 @indie_gamedev_germany | N/A |
 | 🐶 @SnoopieDoopieDog | N/A |
 | 🐕 @SnoopieDoopieDogg | N/A |
-| 🐩 @SnoopieDoopieDoggy | N/A |
 | 🐕‍🦺 @SnoopieDoopieDoggie | N/A |
 
 [🗓️ Desk Calendar #294,086](https://t.me/nft/DeskCalendar-294086) - <span style="color: red;">SOLD</span>
