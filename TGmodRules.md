@@ -201,7 +201,7 @@
           <summary style="padding-left: 10px; color: #75D2F2; font-size: 25px;">Основные команды</summary>
           <ul>
             <li><strong>help</strong> - (👥) Основные команды бота;</li>
-            <li><strong>staff, elencoruoli</strong> - (❓|👥) Отобразить Персонал группы;</li>
+            <li><strong>staff, listroles, elencoruoli</strong> - (❓|👥) Отобразить Персонал группы;</li>
             <li><strong>rules</strong> - (❓|👥) Отправить правила группы;</li>
             <li><strong>link</strong> - (❓|👥) Отправить ссылку на группу;</li>
             <li><strong>me, io</strong> - (❓|👥) Отправить в приватный чат сообщение с данными аккаунта;</li>
