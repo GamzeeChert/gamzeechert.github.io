@@ -13,7 +13,7 @@ title: 🔗 Ссылки
 | Название/Ссылка | Картинка |
 |:----------|:------------|
 | 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert) | ![G_Cchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FG_Cchannel.jpg?raw=true) |
-| 😈 - [DevilWorks Studio](https://t.me/DevilWorksStudio) | ![DWSchannel]((https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FDWSchannel.png?raw=true) |
+| 😈 - [DevilWorks Studio](https://t.me/DevilWorksStudio) | ![DWSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FDWSchannel.png?raw=true) |
 | 🎮 - [Simple SandBox](https://t.me/simple_sandbox) | ![SSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchannel.png?raw=true) |
 | 🗺 - [Рекомендованные карты Simple SandBox](https://t.me/SimpleSandBoxRecommendedMaps) | ![RMSSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchannel.jpg?raw=true) |
 | 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox) | ![PSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchannel.jpg?raw=true) |
