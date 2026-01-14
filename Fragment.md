@@ -28,8 +28,6 @@ title: 💎 Fragment - Аукцион
 | 🇺🇦 @indie_gamedev_ukraine | N/A |
 | 🇺🇦 @indie_gamedev_ua | N/A |
 | 🇺🇸 @indie_gamedev_eng | N/A |
-| 🇺🇸 @indie_gamedev_en | N/A |
-| 🇩🇪 @indie_gamedev_germany | N/A |
 | 🐶 @SnoopieDoopieDog | N/A |
 | 🐕 @SnoopieDoopieDogg | N/A |
 | 🐕‍🦺 @SnoopieDoopieDoggie | N/A |
