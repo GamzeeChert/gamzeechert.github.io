@@ -12,7 +12,6 @@ _telegramrules/_tgicons/G_Cchannel.jpg
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
-<img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/G_Cchannel.jpg" alt="prank" style="max-width:300px; margin-top:20px;">
 | 👁️‍🗨️ - [⛧ G_С Server ⛧](https://t.me/Gamzee_Chert) | ![G_Cchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FG_Cchannel.jpg?raw=true) |
 | 😈 - [DevilWorks Studio](https://t.me/DevilWorksStudio) | ![DWSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FDWSchannel.png?raw=true) |
 | 🎮 - [Simple SandBox](https://t.me/simple_sandbox) | ![SSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchannel.png?raw=true) |
