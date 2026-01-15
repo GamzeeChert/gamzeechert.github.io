@@ -6,7 +6,7 @@ title: 🛍️ Madness Games Store - Simple SandBox 2 : Middle Ages
 
 # Simple SandBox 2 : Middle Ages
 
-![MGSssb2malogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2malogo.png?raw=true)
+<img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssb2malogo.png" alt="MGSssb2malogo" style="max-width:150px;">
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
 <a href="./MGSMain.html" class="button-link">🔙 Вернуться в магазин</a>
