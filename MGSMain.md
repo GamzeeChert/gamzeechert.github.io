@@ -14,13 +14,13 @@ title: 🛍️ Madness Games Store - Навигация
 **Все цены, указанные на сайте, соответствуют ценам на платформе Android. С ценами платформы IOS вы можете ознакомиться у продавца или непосредственно в самой игре.**
 
 | Игра | Логотип |
-|:-----|:--------|
-| [Simple SandBox Classic](./MGSssbc.md) | ![MGSssbclogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssbclogo.png?raw=true) |
-| [Simple SandBox 2](./MGSssb2.md) | ![MGSssb2logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2logo.png?raw=true) |
-| [Simple SandBox 2 : Middle Ages](./MGSssb2ma.md) | ![MGSssb2malogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2malogo.png?raw=true) |
-| [Simple SandBox 3](./MGSssb3.md) | ![MGSssb3logo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb3logo.png?raw=true) |
-| [Simple SandBox 2D](./503Error.md) | ![MGSssb2dlogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSssb2dlogo.png?raw=true) |
-| [SandBox Experimental](./MGSsbe.md) | ![MGSsbelogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSsbelogo.png?raw=true) |
+|:-----|:--------| 
+| [Simple SandBox Classic](./MGSssbc.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssbclogo.png" alt="MGSssbclogo" style="max-width:150px;"> |
+| [Simple SandBox 2](./MGSssb2.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssb2logo.png" alt="MGSssb2logo" style="max-width:150px;"> |
+| [Simple SandBox 2 : Middle Ages](./MGSssb2ma.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssb2malogo.png" alt="MGSssb2malogo" style="max-width:150px;"> |
+| [Simple SandBox 3](./MGSssb3.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssb3logo.png" alt="MGSssb3logo" style="max-width:150px;"> |
+| [Simple SandBox 2D](./503Error.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSssb2dlogo.png" alt="MGSssb2dlogo" style="max-width:150px;"> |
+| [SandBox Experimental](./MGSsbe.md) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSsbelogo.png" alt="MGSsbelogo" style="max-width:150px;"> |
 
 ![MGSpic](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSpic.jpg?raw=true)
 
