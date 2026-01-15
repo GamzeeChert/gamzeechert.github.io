@@ -6,7 +6,7 @@ title: 🛍️ Madness Games Store - SandBox Experimental
 
 # SandBox Experimental
 
-![MGSsbelogo](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_madnessgamesstore%2F_pictures%2FMGSsbelogo.png?raw=true)
+<img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_madnessgamesstore/_pictures/MGSsbelogo.png" alt="MGSsbelogo" style="max-width:150px;">
 
 <a href="./index.html" class="button-link">🌐 Главная страница</a>
 <a href="./MGSMain.html" class="button-link">🔙 Вернуться в магазин</a>
