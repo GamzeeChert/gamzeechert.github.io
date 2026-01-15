@@ -15,7 +15,7 @@ title: 🔗 Ссылки
 | 😈 - [DevilWorks Studio](https://t.me/DevilWorksStudio) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/DWSchannel.png" alt="DWSchannel" style="max-width:150px;"> |
 | 🎮 - [Simple SandBox](https://t.me/simple_sandbox) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/SSBchannel.png" alt="SSBchannel" style="max-width:150px;"> |
 | 🗺 - [Рекомендованные карты Simple SandBox](https://t.me/SimpleSandBoxRecommendedMaps) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/RMSSBchannel.jpg" alt="RMSSBchannel" style="max-width:150px;"> |
-| 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/PSBchannel.jpg" alt="PSBchannel" style="max-width:150px;">) |
+| 👾 - [POLYGONIA SANDBOX!](https://t.me/polygonia_sandbox) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/PSBchannel.jpg" alt="PSBchannel" style="max-width:150px;"> |
 | 🚗 - [Simple Car Simulator](https://t.me/SCSMobile) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/SCSchannel.png" alt="SCSchannel" style="max-width:150px;"> |
 
 - - - - - 
@@ -24,13 +24,13 @@ title: 🔗 Ссылки
 
 | Название/Ссылка | Картинка |
 |:----------|:------------|
-| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/Gamzee_Chert_Chat) | ![G_Cchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FG_Cchat.jpg?raw=true) |
-| 😈 - [DevilWorks Studio Chat](https://t.me/DevilWorks_Studio) | ![DWSchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FDWSchat.png?raw=true) |
-| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | ![SSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBchat.jpg?raw=true) |
-| 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | ![SSBCUchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSSBCUchat.jpg?raw=true) |
-| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | ![RMSSBchat](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FRMSSBchat.jpg?raw=true) |
-| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | ![PSBchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FPSBchannel.jpg?raw=true) |
-| 🚗 - [Simple Car Simulator Chat](https://t.me/ChatScsMobile) | ![SCSchannel](https://github.com/GamzeeChert/gamzeechert.github.io/blob/main/_telegramrules%2F_tgicons%2FSCSchannel.png?raw=true) |
+| 👁️‍🗨️ - [⛧ G_C Server Chat ⛧](https://t.me/Gamzee_Chert_Chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/G_Cchat.jpg" alt="G_Cchat" style="max-width:150px;"> |
+| 😈 - [DevilWorks Studio Chat](https://t.me/DevilWorks_Studio) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/DWSchat.png" alt="DWSchat" style="max-width:150px;"> |
+| 🎮 - [SSB Chat](https://t.me/SimpleSandBox2Chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/SSBchat.jpg" alt="SSBchat" style="max-width:150px;"> |
+| 👥 - [SSB Community](https://t.me/SimpleSandBoxCommunity) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/SSBCUchat.jpg" alt="SSBCUchat" style="max-width:150px;"> |
+| 🗺 - [Рекомендованные карты Simple SandBox - Chat](https://t.me/SimpleSandBoxRecommendedMapsChat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/RMSSBchat.jpg" alt="RMSSBchat" style="max-width:150px;"> |
+| 👾 - [POLYGONIA SANDBOX Chat](https://t.me/polygonia_sandbox_chat) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/PSBchannel.jpg" alt="PSBchannel" style="max-width:150px;"> |
+| 🚗 - [Simple Car Simulator Chat](https://t.me/ChatScsMobile) | <img src="https://github.com/GamzeeChert/gamzeechert.github.io/raw/main/_telegramrules/_tgicons/SCSchannel.png" alt="SCSchannel" style="max-width:150px;"> |
 
 - - - - -
 
