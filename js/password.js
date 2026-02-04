@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
         background-size: cover;
       ">
         
-        <!-- Контент поверх всего -->
         <div class="center-content">
           <div class="background-content">
             <h2 style="
