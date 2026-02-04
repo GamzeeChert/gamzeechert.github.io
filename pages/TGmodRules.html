@@ -6,20 +6,68 @@
     <title>📜 Telegram Rules - Раздел для модераторов и стажёров</title>
     <link rel="icon" type="image/x-icon" href="../assets/images/WSIcons/favicon.ico">
     <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <style>
+        /* Стиль для прелоадера - только на этой странице */
+        #loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            display: none; /* По умолчанию скрыт */
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+            font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+            color: #b5e853;
+        }
+        
+        .spinner {
+            border: 4px solid rgba(181, 232, 83, 0.3);
+            border-top: 4px solid #b5e853;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin-right: 15px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Скрываем контент до ввода пароля */
+        body.password-protected .content-container {
+            display: none;
+        }
+        
+        body.password-verified .content-container {
+            display: block;
+        }
+    </style>
     <script src="../js/password.js" defer></script>
 </head>
     
-<body>
-  <div class="center-content">
-    <div id="content" style="display: none;">
-        <h1>📝 Раздел для модераторов и стажёров</h>
-  </div>
-</div>
-
-    <div class="buttons-container">
-        <a href="../index.html" class="button-link">🌐 Главная страница</a>
-        <a href="./TGRules.html" class="button-link">🔙 Вернуться к правилам</a>
+<body class="password-protected">
+    <!-- Прелоадер поверх всего (только на этой странице) -->
+    <div id="loading-overlay">
+        <div class="spinner"></div>
+        <div>Загрузка...</div>
     </div>
+
+    <div class="content-container">
+        <div class="center-content">
+            <div id="content">
+                <h1>📝 Раздел для модераторов и стажёров</h1>
+            </div>
+        </div>
+
+        <div class="buttons-container">
+            <a href="../index.html" class="button-link">🌐 Главная страница</a>
+            <a href="./TGRules.html" class="button-link">🔙 Вернуться к правилам</a>
+        </div>
 
         <hr>
 
@@ -27,8 +75,6 @@
 
         <h3>⏳ • Временные правила:</h3>
         <p>Запрещены <strong>политические дискуссии, агитация и провокационные темы</strong>, не относящиеся к проекту <em>[/warn 6h Политика]</em>;</p>
-
-        <!--<p>За использование <strong>нецензурной лексики</strong> в чатах, а также <strong>попытку обхода фильтра запрещённых слов</strong> будет выдаваться <strong>предупреждение</strong> <em>[/warn 6h Обход фильтра]</em>.</p> -->
 
         <p>За <strong>чрезмерное использование нецензурной лексики</strong> будет выдаваться <strong>предупреждение</strong><em>[/warn 6h Нецензурная лексика]</em>.</p>
 
@@ -278,5 +324,6 @@
           </ul>
         </details>
     </div>
+
 </body>
 </html>

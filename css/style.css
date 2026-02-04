@@ -114,6 +114,7 @@
     color: #90a959;
 }
 
+/* Глобальные исправления для предотвращения выхода за границы */
 * {
     box-sizing: border-box;
     max-width: 100%;
@@ -123,7 +124,7 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
-    overflow-x: hidden;
+    overflow-x: hidden; /* Важно: предотвращаем горизонтальную прокрутку */
 }
 
 body {
@@ -138,23 +139,27 @@ body {
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+/* Отступы со всех сторон экрана для всех устройств */
 body, .background-page {
     padding: 15px;
     box-sizing: border-box;
 }
 
+/* Меньший отступ для очень маленьких экранов */
 @media (max-width: 480px) {
     body, .background-page {
         padding: 10px;
     }
 }
 
+/* Больший отступ для больших экранов */
 @media (min-width: 1200px) {
     body, .background-page {
         padding: 25px;
     }
 }
 
+/* Добавлено для отступов на мобильных */
 @media (max-width: 768px) {
     body {
         box-sizing: border-box;
@@ -165,14 +170,15 @@ body, .background-page {
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 0 20px;
-    box-sizing: border-box;
+    padding: 0 20px; /* Добавлено: отступы по бокам */
+    box-sizing: border-box; /* Добавлено: учитываем padding в ширине */
 }
 
+/* Для адаптивности на мобильных устройствах */
 @media (max-width: 768px) {
     .container {
-        padding: 0 15px;
-        width: 100%;
+        padding: 0 15px; /* Меньшие отступы на мобильных */
+        width: 100%; /* Занимаем всю доступную ширину */
     }
 }
 
@@ -497,6 +503,7 @@ details[open] > summary::before {
     text-decoration: none;
 }
 
+/* Новые стили - добавлены для замены inline стилей */
 .details-summary-primary {
     padding-left: 10px;
     color: #75D2F2;
@@ -533,6 +540,7 @@ details[open] > summary::before {
     color: #b5e853;
 }
 
+/* Новые классы для центрирования и расположения кнопок */
 .buttons-container {
     display: flex;
     flex-wrap: wrap;
@@ -560,6 +568,7 @@ details[open] > summary::before {
     height: auto;
 }
 
+/* Адаптивность для кнопок */
 @media (max-width: 768px) {
     .buttons-container {
         flex-direction: column;
@@ -595,17 +604,19 @@ details[open] > summary::before {
     }
 }
 
+/* Универсальный класс для фона с GIF - ИСПРАВЛЕННАЯ ВЕРСИЯ */
 .background-page {
     position: relative;
     min-height: 100vh;
     color: #eaeaea;
     font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
-    overflow: auto;
-    display: block;
-    overflow-x: hidden;
+    overflow: auto; /* Добавлено: разрешаем прокрутку */
+    display: block; /* Изменено: убираем flex */
+    overflow-x: hidden; /* Важно: предотвращаем горизонтальную прокрутку */
     width: 100%;
 }
 
+/* Оверлей для 503 страницы - создается через CSS */
 .background-page::before {
     content: '';
     position: fixed;
@@ -635,15 +646,17 @@ details[open] > summary::before {
     border: 1px solid rgba(181, 232, 83, 0.2);
 }
 
+/* Для адаптивности .background-content */
 @media (max-width: 768px) {
     .background-content {
         padding: 20px;
-        margin: 20px 15px;
-        width: calc(100% - 30px);
+        margin: 20px 15px; /* Добавлено: отступы по бокам */
+        width: calc(100% - 30px); /* Учитываем отступы в ширине */
         max-width: 95%;
     }
 }
 
+/* Специальные стили для 503 страницы - исправленные */
 .background-page .center-content {
     position: relative;
     z-index: 2;
@@ -659,6 +672,7 @@ details[open] > summary::before {
     box-sizing: border-box;
 }
 
+/* Исправленный .background-content для 503 страницы */
 .background-page .background-content {
     position: relative;
     z-index: 2;
@@ -668,7 +682,7 @@ details[open] > summary::before {
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     width: 100%;
-    max-width: 600px;
+    max-width: 600px; /* Фиксированная максимальная ширина */
     margin: 20px auto;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     border: 1px solid rgba(181, 232, 83, 0.2);
@@ -676,6 +690,7 @@ details[open] > summary::before {
     text-align: center;
 }
 
+/* Адаптивность для мобильных - улучшенная */
 @media (max-width: 768px) {
     .background-page .background-content {
         padding: 20px;
