@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const correctPassword = "1218676"; // Оставляем как есть
+  const correctPassword = "1218676";
   let tries = 0;
 
   const isProtectedPage = window.location.pathname.includes("TGmodRules.html");
@@ -20,10 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
     contentElement.style.display = "none";
   }
   
-  // ИСПРАВЛЕНИЕ 1: Используем querySelectorAll вместо querySelector
   const mainContentElements = document.querySelectorAll('.center-content, .buttons-container, hr, p, h3, ol, ul, details');
   
-  // Обрабатываем ВСЕ найденные элементы
   mainContentElements.forEach(element => {
     element.style.visibility = "hidden";
     element.style.opacity = "0";
@@ -36,7 +34,6 @@ document.addEventListener("DOMContentLoaded", function () {
     loadingOverlay.style.display = "none";
   }
   
-  // Просто скрываем всё и показываем сообщение
   document.body.innerHTML = `
     <div class="background-page" style="background: url('../assets/videos/prank.gif') no-repeat center center fixed; background-size: cover;">
       <div class="center-content">
@@ -50,7 +47,6 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
   `;
   
-  // Перезагружаем стили
   const links = document.querySelectorAll('link[rel="stylesheet"]');
   links.forEach(link => {
     const newLink = link.cloneNode(true);
@@ -75,7 +71,6 @@ document.addEventListener("DOMContentLoaded", function () {
         contentElement.style.display = "block";
       }
       
-      // Возвращаем видимость всем скрытым элементам
       mainContentElements.forEach(element => {
         element.style.visibility = "visible";
         element.style.opacity = "1";
