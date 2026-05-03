@@ -511,3 +511,14 @@ body.platform-tgstar .price-boosty {
         height: 14px;
     }
 }
+
+button,
+.button-link,
+.button2-link,
+.platform-btn,
+a,
+[data-platform] {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+}
