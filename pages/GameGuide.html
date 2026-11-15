@@ -6,6 +6,7 @@
     <title>📚 Game Guide</title>
     <link rel="icon" type="image/x-icon" href="../assets/images/WSIcons/favicon.ico">
     <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <script src="../js/eventsprites.js" defer></script>
 </head>
 <body>
 
@@ -201,15 +202,15 @@
   <summary class="details-summary-primary">👥 Настройки сервера</summary>
 <p>Хост имеет доступ к <strong>изменению правил сервера</strong> в "Информация комнаты".</p>
 <details>
-    <summary class="details-summary-secondary">1. Строительство</summary>
+    <summary class="details-summary-secondary">1. Включить стрельбу</summary>
     <ul>
-      <li><strong>Строительство</strong> - при отключении никто не сможет ставить игровые объекты;</li>
+      <li><strong>Включить стрельбу</strong> - при отключении блокирует атаку ближнего/дальнего оружия, выстрелы с танков и роботов. Для включения/отключения функции необходим VIP-статус;</li>
     </ul>
 </details>
 <details>
-    <summary class="details-summary-secondary">2. Двойной прыжок</summary>
+    <summary class="details-summary-secondary">2. Строительство</summary>
     <ul>
-      <li><strong>Двойной прыжок</strong> - дает возможность еще раз прыгнуть в воздухе после первого прыжка с поверхности. При отключении игрок сможет прыгать только один раз;</li>
+      <li><strong>Строительство</strong> - при отключении никто не сможет ставить игровые объекты;</li>
     </ul>
 </details>
 <details>
@@ -219,51 +220,63 @@
     </ul>
 </details>
 <details>
-    <summary class="details-summary-secondary">4. Сохранять карту другим</summary>
+    <summary class="details-summary-secondary">4. Спавнить агрессивных NPC</summary>
+    <ul>
+      <li><strong>Спавнить агрессивных NPC</strong> - Дает возможность заспавнить агрессивных NPC из раздела "Others\Aggressive NPCs". При отключении опции никто не сможет их спавнить;</li>
+    </ul>
+</details>
+<details>
+    <summary class="details-summary-secondary">5. Двойной прыжок</summary>
+    <ul>
+      <li><strong>Двойной прыжок</strong> - дает возможность еще раз прыгнуть в воздухе после первого прыжка с поверхности. При отключении игрок сможет прыгать только один раз;</li>
+    </ul>
+</details>
+<details>
+    <summary class="details-summary-secondary">6. Сохранять карту другим</summary>
     <ul>
       <li><strong>Сохранять карту другим</strong> - при отключении никто не сможет сохранять карту. На хоста функция не действует;</li>
     </ul>
 </details>
 <details>
-    <summary class="details-summary-secondary">5. Может создавать агрессивных NPC</summary>
-    <ul>
-      <li><strong>Может создавать агрессивных NPC</strong> - Дает возможность заспавнить агрессивных NPC из раздела "Others\Aggressive NPCs". При отключении опции никто не сможет их спавнить;</li>
-    </ul>
-</details>
-<details>
-    <summary class="details-summary-secondary">6. Только вид от первого лица</summary>
+    <summary class="details-summary-secondary">7. Только вид от первого лица</summary>
     <ul>
       <li><strong>Только вид от первого лица</strong> - Блокирует доступ к режиму камеры от 3-его лица, если включить эту функцию;</li>
     </ul>
 </details>
 <details>
-    <summary class="details-summary-secondary">7. Can Shoot/Attack</summary>
-    <ul>
-      <li><strong>Can Shoot/Attack</strong> — При отключении блокирует атаку ближнего/дальнего оружия, выстрелы с танков и роботов. На остальное не распространяется. Чтобы отключить эту функцию потребуется VIP-подписка;</li>
-    </ul>
-</details>
-<details>
     <summary class="details-summary-secondary">8. Остановить время</summary>
     <ul>
-      <li><strong>Остановить время</strong> — Останавливает время на сервере;</li>
+      <li><strong>Остановить время</strong> - Останавливает время на сервере;</li>
     </ul>
 </details>
 <details>
     <summary class="details-summary-secondary">9. Время</summary>
     <ul>
-      <li><strong>Время</strong> —  Дает возможность редактировать время суток на сервере с 01:00 до 24:00. Изменять значение в мультиплеере можно 1 раз в 30 секунд. Задержка в одиночной игре отсутствует.</li>
+      <li><strong>Время</strong> - Дает возможность редактировать время суток на сервере с 01:00 до 24:00. Изменять значение в мультиплеере можно 1 раз в 30 секунд. Задержка в одиночной игре отсутствует;</li>
     </ul>
 </details>
 <details>
     <summary class="details-summary-secondary">10. Темная ночь</summary>
     <ul>
-      <li><strong>Темная ночь</strong> — Делает более темную ночь на сервере.</li>
+      <li><strong>Темная ночь</strong> - Делает более темную ночь на сервере;</li>
     </ul>
   </details>
   <details>
-    <summary class="details-summary-secondary">11. Показать рекламные предметы</summary>
+    <summary class="details-summary-secondary">11. Облака</summary>
     <ul>
-      <li><strong>Показать рекламные предметы</strong> — Показывает на игровых картах предметы, которые можно получить за просмотр рекламы. При выключении они будут убраны с игровой карты..</li>
+      <li><strong>Облака</strong> - Включает облака на игровой карте;</li>
+    </ul>
+  </details>
+  <details>
+    <summary class="details-summary-secondary">12. Показать рекламные предметы</summary>
+    <ul>
+      <li><strong>Показать рекламные предметы</strong> - Показывает на игровых картах предметы, которые можно получить за просмотр рекламы. При выключении они будут убраны с игровой карты;</li>
+    </ul>
+  </details>
+  <details>
+    <summary class="details-summary-secondary">13. Погода</summary>
+    <ul>
+      <li><strong>Погода</strong> - Переключение погоды на игровой карте. Доступные варианты погоды: ☀️ ясная, ❄️ снежная, 🌧️ дождливая, ⛈️ гроза, 🌪️ песчаная буря.</li>
     </ul>
   </details>
 </details>
@@ -292,7 +305,7 @@
 
 <details>
   <summary class="details-summary-primary">🗿 Настройка NPC</summary>
-<p>Настройка NPC включает в себе две функции:</p>
+<p>Настройка NPC включает в себя две функции:</p>
   <details>
     <summary class="details-summary-secondary">Изменение скина</summary>
     <ul>
@@ -416,9 +429,9 @@
 <hr>
 
     <details>
-  <summary class="details-summary-primary">🔧 Восстановление колёс</summary>
-<p>Для ремонта колёс потребуется взять из инвентаря инструмент <strong>гаечный ключ</strong>, который находится в Player/Items, далее навести курсор на то место, где должно быть колесо и начать его чинить.</p>
-<p>В среднем у машин колёса имеют <strong>200 единиц</strong>, а гаечный ключ восстанавливает <strong>125 единиц</strong>.</p>
+  <summary class="details-summary-primary">🔧 Восстановление колес</summary>
+<p>Для ремонта колес потребуется взять из инвентаря инструмент <strong>гаечный ключ</strong>, который находится в Player/Items, далее навести курсор на то место, где должно быть колесо и начать его чинить.</p>
+<p>В среднем у машин колеса имеют <strong>200 единиц</strong>, а гаечный ключ восстанавливает <strong>125 единиц</strong>.</p>
 </details>
 
 <hr>
